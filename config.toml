@@ -1,6 +1,6 @@
 baseurl = "https://www.example.com/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+title = "Danny Yagan"
+author = "UC Berkeley Opportunity Lab"
 canonifyurls = true
 languagecode = "en"
 
@@ -8,16 +8,31 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Black & Light"
+  sitename = "Prof. Danny Yagan"
+  subheading = "UC Berkeley Economics"
   disableWebFonts = false
 
 [[menu.main]]
-    name = "About"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Home"
+    url  = "/"
+    weight = 1
 [[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Bio"
+    url = "/bio/index.html"
+    weight = 2
 [[menu.main]]
-    name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-
+    name = "Research"
+    url = "/research/index.html"
+    weight = 3
+[[menu.main]]
+    name = "Data"
+    url = "/data/index.html"
+    weight = 4
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/index.html"
+    weight = 5
+[[menu.main]]
+    name = "Press"
+    url = "/press/index.html"
+    weight = 6
