@@ -1,29 +1,7 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About"
 +++
 
-Hugo is a static site engine written in Go.
+Danny Yagan is Assistant Professor of Economics at the University of California-Berkeley, Faculty Research Fellow of the National Bureau of Economic Research, Faculty Co-Director of the Taxation and Inequality Initiative of the Berkeley Opportunity Lab, and Faculty Associate of the Berkeley Burch Center for Tax Policy and Public Finance. He holds a BA summa cum laude and PhD in economics from Harvard. Between his degrees, he worked as a management consultant at McKinsey & Company. 
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+His research applies microeconomic data to study topics of U.S. macroeconomic importance: tax policy, business investment, income inequality, and recession recovery. In 2018 he was awarded a Sloan Foundation Research Fellowship for early-career achievement. His work has been supported by the Sloan Foundation, Arnold Foundation, Washington Center for Equitable Growth, and centers at Berkeley, UC Davis, Rutgers, and Harvard.
