@@ -1,6 +1,35 @@
 {{ partial "header.html" . }}
 
 <section id=content>
+<div class=row>
+    <div class=column>
+      <div class="content">
+          <img src="/assets/headshot.jpg" style="width: 100%; margin-bottom: 0%; margin-top: 0%; margin-left: auto; margin-right: auto;">
+      </div>
+    </div>
+    
+    <div class=column>
+        <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
+
+        {{ if .Params.date }}
+          <div id=sub-header>
+            {{ .Date.Format (.Site.Params.dateform | default "January 2006") }} · {{ .ReadingTime }} minute read
+          </div>
+        {{ end }}
+
+
+      <div class="entry-content">
+        {{ .Content }}
+      </div>
+    </div>
+
+</div>
+</section>
+
+
+
+
+<section id=content>
   <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
 
   {{ if .Params.date }}

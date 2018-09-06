@@ -1,17 +1,28 @@
 {{ partial "header.html" . }}
 
-<section id=content>
-  <ul class=posts_listing>
-    {{ range .Pages }}
-      <li>
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <div id=date>
-          <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
-        </div>
-      </li>
-    {{ end }}
-  </ul>
+
+
+<section id=content>  
+<div class=row>
+    <div class=column>
+      <div class="content">
+          <img src="/assets/headshot.jpg" style="width: 100%; margin-bottom: 0%; margin-top: 0%; margin-left: auto; margin-right: auto;">
+      </div>
+    </div>
+    
+    <div class=column>
+      <div class="entry-content">
+        Email: <a href="mailto:yagan@berkeley.edu">yagan@berkeley.edu</a>
+        <br>
+        On leave at Stanford 2018-2019.
+        <br>
+        Office hours by appointment at Berkeley and Stanford.
+      </div>
+    </div>
+
+</div>
 </section>
+
 
 {{ partial "footer.html" . }}
 
