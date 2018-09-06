@@ -2,4 +2,49 @@
 
 <h3>{{ .Title }}</h3>
 
+<!-- WORKING -->
+<h5>Working Papers</h5>
+<!-- Should be able to replace with where clause but getting error -->
+{{ range .Site.Data.projects }}
+	{{ if .working }}
+		<p>
+			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		</p>
+	{{ end }}
+{{ end }}
+
+<!-- PUBLICATIONS -->
+<h5>Publications</h5>
+
+{{ range .Site.Data.projects }}
+	{{ if .published }}
+		<p>
+			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		</p>
+	{{ end }}
+{{ end }}
+
+<!-- RESTING -->
+<h5>Resting Papers</h5>
+
+{{ range .Site.Data.projects }}
+	{{ if .resting }}
+		<p>
+			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		</p>
+	{{ end }}
+{{ end }}
+
+<!-- RELIC(S) -->
+<h5>Relic(s) From a Former Life</h5>
+
+{{ range .Site.Data.projects }}
+	{{ if .relic }}
+		<p>
+			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		</p>
+	{{ end }}
+{{ end }}
+
+
 {{ partial "footer.html" . }}

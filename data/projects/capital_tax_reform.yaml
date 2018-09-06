@@ -1,0 +1,27 @@
+title: "Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut"
+coauthors: 
+pdf: https://eml.berkeley.edu/~yagan/Hysteresis.pdf
+publication: American Economic Review 2015, lead article, volume 105(12) pp. 3531-3563
+comments: 
+
+working: false
+published: true
+resting: false
+relic: false
+
+see_also:
+
+  - text: slides
+    link: https://eml.berkeley.edu/~yagan/DividendTax_slides.pdf
+
+  - text: appendix
+    link: https://eml.berkeley.edu/~yagan/DividendTax_appx.pdf
+
+  - text: replication zip file with adaptable code for firm-specific capital costs
+    link: https://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip
+
+press: 
+
+  - site: vox
+    article: Obama critics say his tax proposal will hurt investment. The best evidence says it won't.
+    link: https://www.vox.com/2015/1/21/7863239/taxes-investment-yagan
