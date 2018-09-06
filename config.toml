@@ -1,7 +1,7 @@
-baseurl = "https://www.dyagan.github.io/"
+baseUrl = "https://www.dyagan.github.io/"
 title = "Danny Yagan"
 author = "UC Berkeley Opportunity Lab"
-canonifyurls = true
+canonifyurls = false
 languagecode = "en"
 
 pygmentsstyle       = "bw"
