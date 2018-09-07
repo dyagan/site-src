@@ -186,6 +186,8 @@ h1,h2 {
 
 .posts_listing a,#nav a {
   text-decoration: none;
+  color: black;
+  background-color: none;
 }
 
 li {
@@ -248,8 +250,9 @@ ul li:before {
 }
 
 .posts_listing li a:hover,#nav a:hover {
-  text-decoration: underline;
+  border-bottom:1px dashed
 }
+
 
 #nav {
   text-align:center;
@@ -385,6 +388,29 @@ ul li:before {
 }
 
 @media screen and (max-width: 600px) {
-  .column {
-      width: 100%;
+  .column{
+    width: 100%;
   }
+  #img{
+    max-width: 75%;
+  }
+}
+
+a:link{
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited{
+  color: purple;
+}
+
+a:hover{
+  color: hotpink;
+  text-decoration: underline;
+}
+
+a:active{
+  background-color: skyblue;
+}
+
