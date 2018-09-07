@@ -2,7 +2,7 @@ title: "Mobility Report Cards: The Role of Colleges in Intergenerational Mobilit
 coauthors: R. Chetty, J. N. Friedman, E. Saez, and N. Turner
 pdf: http://www.equality-of-opportunity.org/assets/documents/coll_mrc_paper.pdf
 publication: 
-comments: Revision invited at Quarterly Journal of Economics.
+comments: 
 
 working: true
 published: false
@@ -75,3 +75,11 @@ press:
   - site: nyt
     article: "Economic Diversity and Student Outcomes at America's Colleges and Universities: Find Your College"
     link: https://www.nytimes.com/interactive/projects/college-mobility/
+
+data:
+
+  - text: Data and replication kit
+    link: http://www.equality-of-opportunity.org/data/
+
+  - text: Three-page Mobility Report Cards for all 2,199 colleges
+    link: https://sites.google.com/site/dannyyagan/college

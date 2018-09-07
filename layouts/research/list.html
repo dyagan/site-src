@@ -1,15 +1,22 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 
-<h3>{{ .Title }}</h3>
-
 <!-- WORKING -->
 <h5>Working Papers</h5>
 <!-- Should be able to replace with where clause but getting error -->
 {{ range .Site.Data.projects }}
 	{{ if .working }}
 		<p>
-			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
+		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
+		{{ if .publication }} {{ .publication }} <br>{{ end }}
+		{{ if .comments }} {{ .comments }} <br>{{ end }}
+		{{ if .see_also }} 
+			See also: 
+			{{ range .see_also }}
+				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+			{{ end }}
+		{{ end }}
 		</p>
 	{{ end }}
 {{ end }}
@@ -20,7 +27,16 @@
 {{ range .Site.Data.projects }}
 	{{ if .published }}
 		<p>
-			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
+		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
+		{{ if .publication }} {{ .publication }} <br>{{ end }}
+		{{ if .comments }} {{ .comments }} <br>{{ end }}
+		{{ if .see_also }} 
+			See also: 
+			{{ range .see_also }}
+				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+			{{ end }}
+		{{ end }}
 		</p>
 	{{ end }}
 {{ end }}
@@ -31,7 +47,16 @@
 {{ range .Site.Data.projects }}
 	{{ if .resting }}
 		<p>
-			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
+		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
+		{{ if .publication }} {{ .publication }} <br>{{ end }}
+		{{ if .comments }} {{ .comments }} <br>{{ end }}
+		{{ if .see_also }} 
+			See also: 
+			{{ range .see_also }}
+				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+			{{ end }}
+		{{ end }}
 		</p>
 	{{ end }}
 {{ end }}
@@ -42,7 +67,16 @@
 {{ range .Site.Data.projects }}
 	{{ if .relic }}
 		<p>
-			<a href="{{ .pdf }}" target="_blank">{{ .title }}</a>
+		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
+		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
+		{{ if .publication }} {{ .publication }} <br>{{ end }}
+		{{ if .comments }} {{ .comments }} <br>{{ end }}
+		{{ if .see_also }} 
+			See also: 
+			{{ range .see_also }}
+				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+			{{ end }}
+		{{ end }}
 		</p>
 	{{ end }}
 {{ end }}

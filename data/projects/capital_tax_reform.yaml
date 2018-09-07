@@ -25,3 +25,8 @@ press:
   - site: vox
     article: Obama critics say his tax proposal will hurt investment. The best evidence says it won't.
     link: https://www.vox.com/2015/1/21/7863239/taxes-investment-yagan
+
+data:
+
+  - text: Stata do files with adaptable code for firm-specific capital costs
+    link: http://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip

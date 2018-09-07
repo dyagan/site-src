@@ -25,3 +25,8 @@ press:
   - site: wsj
     article: Surprising Data on Who Owns U.S. Firms and How Much They Pay in Taxes
     link: https://blogs.wsj.com/washwire/2015/09/24/surprising-data-on-who-owns-u-s-firms-and-how-much-they-pay-in-taxes/
+
+data: 
+
+  - text: Data used in our published exhibits
+    link: http://eml.berkeley.edu/~yagan/BusinessOwnersTaxes_data.xlsx

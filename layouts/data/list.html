@@ -1,6 +1,17 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 
-<h3>{{ .Title }}</h3>
+{{ range .Site.Data.projects }}
+	{{ if .data }}
+		<p>
+		<span>{{ .title }}</span>
+		<ul>
+			{{ range .data }}
+				<li><a href="{{ .link }}" target="_blank">{{ .text }}</a></li>
+			{{ end }}
+		</ul>
+		</p>
+	{{ end }}
+{{ end }}
 
 {{ partial "footer.html" . }}

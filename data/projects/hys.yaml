@@ -30,3 +30,8 @@ press:
   - site: wp
     article: They're some of the unluckiest places in America - and may confirm what's wrong with the economy
     link: https://www.washingtonpost.com/news/wonk/wp/2016/06/23/the-most-unlucky-places-in-america/?utm_term=.6a925759b427
+
+data: 
+
+  - text: Replication kit with description, code, readme, and datasets
+    link: http://eml.berkeley.edu/~yagan/hysteresis/Hysteresis_replication_kit.zip
