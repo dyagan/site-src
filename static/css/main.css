@@ -252,7 +252,9 @@ ul li:before {
 .posts_listing li a:hover,#nav a:hover {
   border-bottom:1px dashed
 }
-
+.posts_listing li a:active,#nav a:active {
+  background-color: transparent;
+}
 
 #nav {
   text-align:center;
@@ -391,7 +393,7 @@ ul li:before {
   .column{
     width: 100%;
   }
-  #img{
+  .img{
     max-width: 75%;
   }
 }
@@ -406,7 +408,7 @@ a:visited{
 }
 
 a:hover{
-  color: hotpink;
+  color: red;
   text-decoration: underline;
 }
 
