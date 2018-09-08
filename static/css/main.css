@@ -99,7 +99,7 @@ em,q,em,dfn {
   font-family:Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
 }
 
-.heading,.serif,h1,h2,h3 {
+.heading,.serif,h1,h2,h3, h4 {
   font-family:"Old Standard TT",serif;
 }
 

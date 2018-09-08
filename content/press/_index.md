@@ -1,3 +1,3 @@
 +++
-title = "Research in the Press"
+title = "Danny Yagan - Press"
 +++
