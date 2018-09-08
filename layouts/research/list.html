@@ -2,7 +2,7 @@
 {{ partial "header.html" . }}
 
 <!-- WORKING -->
-<h5>Working Papers</h5>
+<h3>Working Papers</h3>
 <!-- Should be able to replace with where clause but getting error -->
 {{ range .Site.Data.projects }}
 	{{ if .working }}
@@ -22,7 +22,7 @@
 {{ end }}
 
 <!-- PUBLICATIONS -->
-<h5>Publications</h5>
+<h3>Publications</h3>
 
 {{ range .Site.Data.projects }}
 	{{ if .published }}
@@ -42,7 +42,7 @@
 {{ end }}
 
 <!-- RESTING -->
-<h5>Resting Papers</h5>
+<h3>Resting Papers</h3>
 
 {{ range .Site.Data.projects }}
 	{{ if .resting }}
@@ -62,7 +62,7 @@
 {{ end }}
 
 <!-- RELIC(S) -->
-<h5>Relic(s) From a Former Life</h5>
+<h3>Relic(s) From a Former Life</h3>
 
 {{ range .Site.Data.projects }}
 	{{ if .relic }}

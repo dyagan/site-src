@@ -12,14 +12,14 @@
 body {
   font-family:'Open Sans', 'Myriad Pro', Myriad, sans-serif;
   font-size:17px;
-  line-height:160%;
+  line-height:110%;
   color:#1d1313;
   max-width:700px;
   margin:auto;
 }
 
 p {
-  margin: 20px 0;
+  margin: 0px 0 20px;
 }
 
 a img {
@@ -159,6 +159,8 @@ h2 {
 h3 {
   font-size:22px;
   margin-top:18px;
+  border-bottom: 2px solid lightgrey;
+  margin-bottom: 20px;
 }
 
 h1 a,h2 a,h3 a {
@@ -211,7 +213,7 @@ ul li:before {
 }
 
 #content {
-  text-align:left;
+  text-align:justify;
   width:100%;
   font-size:15px;
   padding:60px 0 80px;
@@ -225,9 +227,6 @@ ul li:before {
   font-size:25px;
 }
 
-#content .entry-content {
-  margin-top:15px;
-}
 
 #content time {
   margin-left:3px;

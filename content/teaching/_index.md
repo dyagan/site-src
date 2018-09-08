@@ -37,11 +37,11 @@ This course (Berkeley Economics 131) analyzes the role of the government in the 
 11. Externalities<br>
 12. Public Goods<br>
 13. Political Economy<br>
-14. State and Local Government Expenditures
-15. Education
-16. Social Insurance
-17. Social Security
-18. Unemployment Insurance, Disability Insurance, and Workers' Compensation
+14. State and Local Government Expenditures<br>
+15. Education<br>
+16. Social Insurance<br>
+17. Social Security<br>
+18. Unemployment Insurance, Disability Insurance, and Workers' Compensation<br>
 19. Health Insurance
 
 <a href="https://eml.berkeley.edu/~yagan/teaching/Undergraduate_Public_Sector_Economics_Course_Information.pdf" target="_blank">Course information</a>
