@@ -2,6 +2,8 @@ title: "Mobility Report Cards: The Role of Colleges in Intergenerational Mobilit
 coauthors: R. Chetty, J. N. Friedman, E. Saez, and N. Turner
 pdf: http://www.equality-of-opportunity.org/assets/documents/coll_mrc_paper.pdf
 publication: 
+journal:
+year:
 comments: 
 
 working: true
@@ -24,7 +26,7 @@ see_also:
     link: http://www.equality-of-opportunity.org/data/
 
   - text: selected mobility report cards
-    link: https://sites.google.com/site/dannyyagan/college
+    link: https://dyagan.github.io/projects/college.html
 
 press: 
 

@@ -1,7 +1,9 @@
 title: "Business in the United States: Who Owns It and How Much Tax Do They Pay?"
 coauthors: M. Cooper, J. McClelland, J. Pearce, R. Prisinzano, J. Sullivan, O. Zidar, and E. Zwick
 pdf: https://eml.berkeley.edu/~yagan/BusinessOwnersTaxes.pdf
-publication: Tax Policy and the Economy 2016, volume 30 pp. 91-128
+publication: volume 30 pp. 91-128
+journal: Tax Policy and the Economy
+year: "2016"
 comments: 
 
 working: false
@@ -28,5 +30,5 @@ press:
 
 data: 
 
-  - text: Data used in our published exhibits
+  - text: Data
     link: http://eml.berkeley.edu/~yagan/BusinessOwnersTaxes_data.xlsx

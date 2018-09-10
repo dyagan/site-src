@@ -1,7 +1,9 @@
 title: "Optimal Taxation in Theory and Practice"
 coauthors: N. G. Mankiw and M. Weinzierl
 pdf: https://eml.berkeley.edu/~yagan/OptimalTaxation.pdf
-publication: Journal of Economic Perspectives 2009, volume 23(4) pp. 147-174
+publication: volume 23(4) pp. 147-174
+journal: Journal of Economic Perspectives
+year: "2009"
 comments: 
 
 working: false
@@ -18,5 +20,5 @@ press:
 
 data: 
 
-  - text: Replication kit for our Mirrlees (1971) optimal tax simulations
+  - text: Replication kit
     link: http://eml.berkeley.edu/~yagan/MWY_appx_sim_files.zip

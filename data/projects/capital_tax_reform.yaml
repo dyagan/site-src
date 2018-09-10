@@ -1,7 +1,9 @@
 title: "Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut"
 coauthors: 
 pdf: https://eml.berkeley.edu/~yagan/Hysteresis.pdf
-publication: American Economic Review 2015, lead article, volume 105(12) pp. 3531-3563
+publication: lead article, volume 105(12) pp. 3531-3563
+journal: American Economic Review
+year: "2015"
 comments: 
 
 working: false
@@ -17,7 +19,7 @@ see_also:
   - text: appendix
     link: https://eml.berkeley.edu/~yagan/DividendTax_appx.pdf
 
-  - text: replication zip file with adaptable code for firm-specific capital costs
+  - text: code
     link: https://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip
 
 press: 
@@ -28,5 +30,5 @@ press:
 
 data:
 
-  - text: Stata do files with adaptable code for firm-specific capital costs
+  - text: code
     link: http://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip

@@ -1,7 +1,9 @@
 title: "Employment Hysteresis from the Great Recession"
 coauthors: 
 pdf: https://eml.berkeley.edu/~yagan/Hysteresis.pdf
-publication: Journal of Political Economy, forthcoming
+publication: forthcoming
+journal: Journal of Political Economy
+year: 
 comments: 
 
 working: false
@@ -14,7 +16,7 @@ see_also:
   - text: version with migration results
     link: https://eml.berkeley.edu/~yagan/MigratoryInsurance.pdf
 
-  - text: published data, including Great Recession local shocks and local employment and earnings effects
+  - text: Data
     link: https://sites.google.com/site/dannyyagan/data
 
 press: 
@@ -33,5 +35,5 @@ press:
 
 data: 
 
-  - text: Replication kit with description, code, readme, and datasets
+  - text: Data
     link: http://eml.berkeley.edu/~yagan/hysteresis/Hysteresis_replication_kit.zip
