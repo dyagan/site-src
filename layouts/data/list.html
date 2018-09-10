@@ -1,8 +1,9 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
-
 <section id=content>
-{{ range .Site.Data.projects }}
+{{.Content}}
+
+<!-- {{ range .Site.Data.projects }}
 	{{ if .data }}
 		<p>
 		<h3><span>{{ .title }}</span></h3>
@@ -13,7 +14,7 @@
 		</ul>
 		</p>
 	{{ end }}
-{{ end }}
+{{ end }} -->
 
 </section>
 {{ partial "footer.html" . }}
