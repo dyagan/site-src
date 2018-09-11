@@ -30,8 +30,17 @@ Note: These public data essentially replicate the core confidential-data result 
 <ul>
 	
 <li><a href="http://www.equality-of-opportunity.org/data/" target="_blank">Data and replication kit</a></li>
-	
 <li><a href="/projects/college" target="_blank">Three-page Mobility Report Cards for all 2,199 colleges</a></li>
+	
+</ul>
+</p>
+
+<br>
+<p>
+<h5><span>Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut (AER 2015)</span></h5>
+<ul>
+	
+<li><a href="http://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip" target="_blank">Stata do files with adaptable code for firm-specific capital costs</a></li>
 	
 </ul>
 </p>
@@ -46,15 +55,6 @@ Note: These public data essentially replicate the core confidential-data result 
 </ul>
 </p>
 
-<br>
-<p>
-<h5><span>Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut (AER 2015)</span></h5>
-<ul>
-	
-<li><a href="http://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip" target="_blank">Stata do files with adaptable code for firm-specific capital costs</a></li>
-	
-</ul>
-</p>
 
 <br>
 <p>

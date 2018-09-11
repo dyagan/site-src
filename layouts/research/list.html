@@ -4,6 +4,8 @@
 <!-- WORKING -->
 <h3>Working Papers</h3>
 <!-- Should be able to replace with where clause but getting error -->
+
+<div class="hanging">
 {{ range .Site.Data.projects }}
 	{{ if .working }}
 		<p>
@@ -20,11 +22,13 @@
 		</p>
 	{{ end }}
 {{ end }}
+</div>
 
 <!-- PUBLICATIONS -->
 <br>
 <h3>Publications</h3>
 
+<div class="hanging">
 {{ range .Site.Data.projects }}
 	{{ if .published }}
 		<p>
@@ -41,11 +45,13 @@
 		</p>
 	{{ end }}
 {{ end }}
+</div>
 
 <!-- RESTING -->
 <br>
 <h3>Resting Papers</h3>
 
+<div class="hanging">
 {{ range .Site.Data.projects }}
 	{{ if .resting }}
 		<p>
@@ -62,11 +68,13 @@
 		</p>
 	{{ end }}
 {{ end }}
+</div>
 
 <!-- RELIC(S) -->
 <br>
 <h3>Relic From a Former Life</h3>
 
+<div class="hanging">
 {{ range .Site.Data.projects }}
 	{{ if .relic }}
 		<p>
@@ -83,5 +91,6 @@
 		</p>
 	{{ end }}
 {{ end }}
+</div>
 </section>
 {{ partial "footer.html" . }}

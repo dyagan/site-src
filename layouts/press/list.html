@@ -7,7 +7,7 @@
 	{{ if .press }}
 
 		<p>
-			<span style="text-decoration: underline;">{{ .title }}</span>
+			<h5>{{ .title }}</h5>
 		</p>
 
 		<table width="100%">
@@ -21,10 +21,10 @@
 			{{ range .press }}
 				<tbody>
 					<tr>
-						<td>
+						<td style="vertical-align: top;">
 							<img src="/assets/press/{{ .site }}.png" alt="" height="18" border="0">
 						</td>
-						<td style="color: black; margin: 10px; line-height: 25px; text-align: left;">
+						<td style="vertical-align: top; color: black; margin: 10px; line-height: 25px; text-align: left;">
 							<p>
 								<a href="{{ .link }}" target="_blank">"{{ .article }}"</a>
 							</p>
