@@ -170,14 +170,14 @@ h4 {
 h3 {
   font-size:22px;
 /*  margin-top:30px;*/
-  border-bottom: 2px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
   margin-bottom: 10px;
 }
 
 h5 {
   font-size: 18px;
 /*  margin-top:30px;*/
-  border-bottom: 2px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
   margin-bottom: 10px;
 }
 
@@ -453,3 +453,16 @@ a:active{
   background-color: skyblue;
 }
 
+/*SPECIFICS*/
+#journal {
+  font-style: italic;
+  font-weight: bold;
+}
+
+#see-also::after {
+  content: ",";
+}
+
+#see-also:last-child:after {
+  content: ".";
+}

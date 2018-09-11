@@ -6,6 +6,9 @@ journal:
 year:
 comments: 
 
+# FOR SORTING
+weight: 9
+
 working: true
 published: false
 resting: false
@@ -26,7 +29,7 @@ see_also:
     link: http://www.equality-of-opportunity.org/data/
 
   - text: selected mobility report cards
-    link: https://dyagan.github.io/projects/college.html
+    link: https://dyagan.github.io/projects/college/
 
 press: 
 
@@ -84,4 +87,4 @@ data:
     link: http://www.equality-of-opportunity.org/data/
 
   - text: Three-page Mobility Report Cards for all 2,199 colleges
-    link: https://sites.google.com/site/dannyyagan/college
+    link: https://dyagan.github.io/projects/college/

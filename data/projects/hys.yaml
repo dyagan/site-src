@@ -4,7 +4,10 @@ pdf: https://eml.berkeley.edu/~yagan/Hysteresis.pdf
 publication: forthcoming
 journal: Journal of Political Economy
 year: 
-comments: 
+comments:  
+
+# FOR SORTING
+weight: 8
 
 working: false
 published: true
@@ -16,8 +19,8 @@ see_also:
   - text: version with migration results
     link: https://eml.berkeley.edu/~yagan/MigratoryInsurance.pdf
 
-  - text: Data
-    link: https://sites.google.com/site/dannyyagan/data
+  - text: data
+    link: http://eml.berkeley.edu/~yagan/hysteresis/Hysteresis_replication_kit.zip
 
 press: 
 

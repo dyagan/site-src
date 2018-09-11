@@ -4,7 +4,10 @@ pdf: https://eml.berkeley.edu/~yagan/OptimalTaxation.pdf
 publication: volume 23(4) pp. 147-174
 journal: Journal of Economic Perspectives
 year: "2009"
-comments: 
+comments:  
+
+# FOR SORTING
+weight: 4
 
 working: false
 published: true
@@ -15,6 +18,9 @@ see_also:
 
   - text: appendix
     link: https://eml.berkeley.edu/~yagan/MWY_appx.pdf
+
+  - text: replication kit
+    link: http://eml.berkeley.edu/~yagan/MWY_appx_sim_files.zip
 
 press: 
 

@@ -6,6 +6,9 @@ journal: Tax Policy and the Economy
 year: "2016"
 comments: 
 
+# FOR SORTING
+weight: 5
+
 working: false
 published: true
 resting: false
@@ -21,6 +24,9 @@ see_also:
 
   - text: discussion with Jim Poterba
     link: https://vimeo.com/143020037
+
+  - text: data
+    link: http://eml.berkeley.edu/~yagan/BusinessOwnersTaxes_data.xlsx
 
 press: 
 
