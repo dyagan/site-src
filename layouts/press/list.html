@@ -2,13 +2,12 @@
 {{ partial "header.html" . }}
 
 <section id=content>
-{{ range .Site.Data.projects }}
+{{ range sort .Site.Data.projects "weight" "desc" }}
 
 	{{ if .press }}
 
-		<p>
-			<h5>{{ .title }}</h5>
-		</p>
+		
+		<h5>{{ .title }}</h5>
 
 		<table width="100%">
 			<thead>

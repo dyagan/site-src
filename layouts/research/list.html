@@ -1,22 +1,24 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
+
 <section id=content>
 <!-- WORKING -->
-<h3>Working Papers</h3>
+<h5>Working Papers</h5>
 <!-- Should be able to replace with where clause but getting error -->
 
 <div class="hanging">
-{{ range .Site.Data.projects }}
+{{ range sort .Site.Data.projects "weight" "desc" }}
 	{{ if .working }}
 		<p>
 		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
 		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
 		{{ if .publication }} {{ .publication }} <br>{{ end }}
+		{{ if .revision }} {{ .revision }} <span id="journal">{{ .journal }}</span>. <br>{{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}
 		{{ if .see_also }} 
 			See also: 
 			{{ range .see_also }}
-				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+				<span id="see-also"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
 			{{ end }}
 		{{ end }}
 		</p>
@@ -26,20 +28,20 @@
 
 <!-- PUBLICATIONS -->
 <br>
-<h3>Publications</h3>
+<h5>Publications</h5>
 
 <div class="hanging">
-{{ range .Site.Data.projects }}
+{{ range sort .Site.Data.projects "weight" "desc" }}
 	{{ if .published }}
 		<p>
 		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
 		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
-		{{ if .publication }} {{ .publication }} <br>{{ end }}
+		{{ if .publication }} <span id="journal">{{ .journal }}</span> {{ .year }}, {{ .publication }}. <br>{{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}
 		{{ if .see_also }} 
 			See also: 
 			{{ range .see_also }}
-				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+				<span id="see-also"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
 			{{ end }}
 		{{ end }}
 		</p>
@@ -49,10 +51,10 @@
 
 <!-- RESTING -->
 <br>
-<h3>Resting Papers</h3>
+<h5>Resting Papers</h5>
 
 <div class="hanging">
-{{ range .Site.Data.projects }}
+{{ range sort .Site.Data.projects "weight" "desc" }}
 	{{ if .resting }}
 		<p>
 		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
@@ -62,7 +64,7 @@
 		{{ if .see_also }} 
 			See also: 
 			{{ range .see_also }}
-				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+				<span id="see-also"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
 			{{ end }}
 		{{ end }}
 		</p>
@@ -72,20 +74,20 @@
 
 <!-- RELIC(S) -->
 <br>
-<h3>Relic From a Former Life</h3>
+<h5>Relic From a Former Life</h5>
 
 <div class="hanging">
-{{ range .Site.Data.projects }}
+{{ range sort .Site.Data.projects "weight" "desc" }}
 	{{ if .relic }}
 		<p>
 		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
 		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
-		{{ if .publication }} {{ .publication }} <br>{{ end }}
+		{{ if .publication }} <span id="journal">{{ .journal }}</span> {{ .year }}, {{ .publication }}. <br>{{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}
 		{{ if .see_also }} 
 			See also: 
 			{{ range .see_also }}
-				<a href="{{ .link }}" target="_blank">{{ .text }}</a>
+				<span id="see-also"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
 			{{ end }}
 		{{ end }}
 		</p>
