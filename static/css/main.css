@@ -21,7 +21,7 @@ body {
 
 @media (min-width: 900px) {
   #widebody{
-    width: 800px;
+    width: 750px;
   }
 }
 p {
@@ -175,7 +175,7 @@ h3 {
 }
 
 h5 {
-  font-size: 18px;
+  font-size: 17px;
 /*  margin-top:30px;*/
   border-bottom: 1px solid lightgrey;
   margin-bottom: 10px;
@@ -250,7 +250,8 @@ ul li:before {
 }
 
 .indent{
-	padding-left: 1.5em;
+	padding-left: 2.5em;
+	text-indent: -1em;
 }
 
 #content time {
