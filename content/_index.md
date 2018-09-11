@@ -3,7 +3,7 @@ title = "Danny Yagan"
 +++
 
 
-Email: <a href="mailto:yagan@berkeley.edu">yagan@berkeley.edu</a>
+Email: *<a href="mailto:yagan@berkeley.edu">yagan@berkeley.edu</a>*
 <br><br>
 
 On leave at Stanford 2018-2019.

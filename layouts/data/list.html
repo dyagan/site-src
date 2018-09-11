@@ -1,6 +1,7 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 <section id=content>
+<section id=widebody>
 {{.Content}}
 
 <!-- {{ range .Site.Data.projects }}
@@ -15,6 +16,6 @@
 		</p>
 	{{ end }}
 {{ end }} -->
-
+</section>
 </section>
 {{ partial "footer.html" . }}
