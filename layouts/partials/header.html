@@ -1,5 +1,6 @@
 <body>
   <section id=nav>
+  	<header id="header" class="header">
     <h1><a href="/">{{ .Site.Params.sitename }}</a></h1>
     <h4><a href="https://www.econ.berkeley.edu/">{{ .Site.Params.subheading }}</a></h4>
     <ul>
@@ -7,4 +8,5 @@
        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
+	</header>
   </section>

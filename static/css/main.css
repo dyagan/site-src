@@ -8,17 +8,18 @@
   padding:0;
   color: #282828;
   background: white;
-/*  background: #FFFFFC;*/
+ /* background: #FFFFFC;*/
 /*  background: whitesmoke;*/
   text-decoration-skip: ink;
 }
 
 /*Font and size of the body*/
 body {
-  font-family: 'Muli', Sans-Serif;
+font-family: 'Helvetica', Sans-Serif;
+/* font-family: 'Open sans', sans-serif;*/
+/*  font-family: 'Muli', Sans-Serif;*/
   font-size: 15px;
-/*  font-family:'Open Sans', 'Myriad Pro', Myriad, sans-serif; */
-  line-height:110%;
+  line-height:131%;
   max-width:700px;
   margin:auto;
 }
@@ -26,8 +27,9 @@ body {
 
 /*Font of the headers*/
 .heading,.serif,h1,h2,h3, h4, h5 {
-  font-family: "Merriweather", serif;
-/*  font-family:"Old Standard TT",serif;*/
+  font-family: serif;
+/*font-family: 'Work sans', sans-serif;*/
+/*font-family: "Merriweather", serif;*/
 }
 
 /*Size of headers*/
@@ -35,12 +37,13 @@ body {
 /*Danny Yagan title is h1*/
 h1 {
   font-size:35px;
+  letter-spacing: 1px;
 }
 
 /*UC Berkeley link is h4*/
 h4 {
   font-size:16px;
-  margin-top: 1px;
+  margin-top: 5px;
 }
 
 h3 {
@@ -52,7 +55,7 @@ h3 {
 
 /*Section headers on pages are h5*/
 h5 {
-  font-size: 18px;
+  font-size: 17px;
 /*  margin-top:30px;*/
   border-bottom: 1px solid lightgrey;
   margin-bottom: 10px;
@@ -280,14 +283,18 @@ ul li:before {
 /*this margin changes the distance between the sub-title and the menu items*/
 #nav ul {
   display: table;
-  margin: 12px auto 0 auto;
+  margin: 18px auto 0 auto;
 }
 
 #nav li {
   list-style-type:none;
   display:table-cell;
-  font-size:15px;
+/*  font-size:15px;*/
   padding: 0 20px;
+}
+
+.header.navbar-fixed-top {
+  z-index: 999;
 }
 
 #links {
@@ -322,7 +329,7 @@ ul li:before {
 
 @media (min-width: 900px) {
   #widebody{
-    width: 700px;
+    width: 800px;
   }
 }
 
@@ -351,12 +358,12 @@ ul li:before {
     font-size:25px;
   }
 
-  #content h2 {
-    font-size:22px;
+  h4 {
+    font-size:15px;
   }
 
-  .posts_listing li div {
-    font-size:12px;
+  #content h5 {
+    font-size:15px;
   }
 }
 
@@ -385,12 +392,12 @@ ul li:before {
     font-size:20px;
   }
 
-  #content h2 {
-    font-size:18px;
+  h4 {
+    font-size:13px;
   }
 
-  .posts_listing li div{
-    font-size:12px;
+  #content h5 {
+    font-size:13px;
   }
 }
 
@@ -427,7 +434,7 @@ ul li:before {
   .right{
     width: 100%;
   }
-  .img{
+  .headshot{
     max-width: 50%;
     height: auto;
   }
