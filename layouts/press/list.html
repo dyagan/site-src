@@ -15,11 +15,11 @@
 
 		{{ range .articles }}
 		<tbody>
-			<tr>
+			<tr style="height: 45px">
 				<td style="vertical-align: middle;">
-					<img src="/assets/press/{{ .site }}.png" alt="" height="18" border="0">
+					<img style="display: block; max-width: 80% !important; max-height: 25px !important; width: auto; height: auto; margin: 0 auto 0 auto;" src="/assets/press/{{ .site }}.png" alt="" border="0">
 				</td>
-				<td style="vertical-align: middle; color: black; margin: 10px; text-align: left; padding:2.5px;">
+				<td style="vertical-align: middle; color: black; margin: 10px; text-align: left; padding:2.5px; min-height: 100px;">
 						<a href="{{ .link }}" target="_blank">"{{ .article }}"</a> {{ if .author}} by {{.author}}{{ end }}
 				</td>
 				<td>
