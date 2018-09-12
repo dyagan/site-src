@@ -10,8 +10,8 @@ Data and replication kit for all publicly replicable results. These public data 
 <br>
 <ul>
 <div class="indent">
-	<li>Hysteresis Data Table 1 (<a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table1.dta" rel="nofollow">Stata</a>, <a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table1.csv" rel="nofollow">Excel</a>): Main Data - Great Recession Shocks and Effects by Commuting Zone</li>
-	<li>Hysteresis Data Table 2 (<a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table2.dta" rel="nofollow">Stata</a>, <a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table2.csv" rel="nofollow">Excel</a>): Blanchard-Katz Replication Data - Employment Statistics by State and Year</li>
+	<li>Hysteresis Data Table 1 (<a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table1.dta" rel="nofollow">Stata</a>, <a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table1.csv" rel="nofollow">Excel</a>): Great Recession Shocks and Effects by Commuting Zone</li>
+	<li>Hysteresis Data Table 2 (<a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table2.dta" rel="nofollow">Stata</a>, <a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table2.csv" rel="nofollow">Excel</a>): Employment Statistics by State and Year</li>
 	<li>Hysteresis Data Table 3 (<a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table3.dta" rel="nofollow">Stata</a>, <a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table3.csv" rel="nofollow">Excel</a>): Age-Adjusted U.S. Employment Statistics by Year</li>
 	<li>Hysteresis Data Table 4 (<a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table4.dta" rel="nofollow">Stata</a>, <a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table4.csv" rel="nofollow">Excel</a>): U.S. Employment Statistics by Month</li>
 	<li>Hysteresis Data Table 5 (<a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table5.dta" rel="nofollow">Stata</a>, <a href="http://eml.berkeley.edu/~yagan/hysteresis/hys_table5.csv" rel="nofollow">Excel</a>): U.S. Employment Statistics by Age and Year</li>

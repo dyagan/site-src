@@ -130,58 +130,50 @@ Education and Upward Mobility:
         link: https://www.nytimes.com/interactive/projects/college-mobility/
         author:
 
+      - site: politico
+        article: How U.S. News college rankings promote economic inequality on campus
+        link: https://www.politico.com/interactives/2017/top-college-rankings-list-2017-us-news-investigation/
+        author: Benjamin Wermund
 
+      - site: AtlanticMth
+        article: The Myth of American Universities as Inequality-Fighters
+        link: https://www.theatlantic.com/business/archive/2017/08/universities-inequality-fighters/538566/
+        author: Derek Thompson
 
+      - site: wp
+        article: "New rankings tackle old problem: Measuring the outcome of college"
+        link: https://www.washingtonpost.com/news/grade-point/wp/2017/07/10/new-rankings-tackle-old-problem-measuring-the-outcome-of-college/?noredirect=on&utm_term=.e468ec4f67d4
+        author: Jeffrey J. Selingo
 
+      - site: vox
+        article: "These colleges are better than Harvard at making poor kids rich"
+        link: https://www.vox.com/policy-and-politics/2017/2/28/14359140/chetty-friedman-college-mobility
+        author: Dylan Matthews
 
+      - site: economist
+        article: Skipping class
+        link: www.economist.com/news/united-states/21715735-new-data-show-joining-1-remains-unsettlingly-hereditary-skipping-class
+        author:
 
+      - site: forbes
+        article: Higher Education's Questionable Equality-of-Opportunity Promise
+        link: https://www.forbes.com/sites/prestoncooper2/2017/01/25/higher-educations-questionable-equality-of-opportunity-promise/
+        author: Preston Cooper
 
+      - site: sacbee
+        article: Which California Colleges Help Transform Impoverished Students into Wealthy Adults
+        link: https://www.sacbee.com/news/state/california/article128346494.html
+        author: Phillip Reese
 
+      - site: csmonitor
+        article: Why Cal State L.A. Turns the Most Low-Income Students into Top Earners
+        link: https://www.csmonitor.com/EqualEd/2017/0124/Why-Cal-State-L.A.-turns-the-most-low-income-students-into-top-earners
+        author: Josh Kenworthy
 
-
-
-
-# COLLEGE PRESS
-
-
-# other:
-
-#   - site: politico
-#     article: How U.S. News college rankings promote economic inequality on campus
-#     link: https://www.politico.com/interactives/2017/top-college-rankings-list-2017-us-news-investigation/
-
-#   - site: AtlanticMth
-#     article: The Myth of American Universities as Inequality-Fighters
-#     link: https://www.theatlantic.com/business/archive/2017/08/universities-inequality-fighters/538566/
-
-#   - site: wp
-#     article: "New rankings tackle old problem: Measuring the outcome of college"
-#     link: https://www.washingtonpost.com/news/grade-point/wp/2017/07/10/new-rankings-tackle-old-problem-measuring-the-outcome-of-college/?noredirect=on&utm_term=.e468ec4f67d4
-
-#   - site: vox
-#     article: "These colleges are better than Harvard at making poor kids rich"
-#     link: https://www.vox.com/policy-and-politics/2017/2/28/14359140/chetty-friedman-college-mobility
-
-#   - site: economist
-#     article: Skipping class
-#     link: www.economist.com/news/united-states/21715735-new-data-show-joining-1-remains-unsettlingly-hereditary-skipping-class
-
-#   - site: forbes
-#     article: Higher Education's Questionable Equality-of-Opportunity Promise
-#     link: https://www.forbes.com/sites/prestoncooper2/2017/01/25/higher-educations-questionable-equality-of-opportunity-promise/
-
-#   - site: sacbee
-#     article: Which California Colleges Help Transform Impoverished Students into Wealthy Adults
-#     link: https://www.sacbee.com/news/state/california/article128346494.html
-
-#   - site: csmonitor
-#     article: Why Cal State L.A. Turns the Most Low-Income Students into Top Earners
-#     link: https://www.csmonitor.com/EqualEd/2017/0124/Why-Cal-State-L.A.-turns-the-most-low-income-students-into-top-earners
-
-#   - site: cuny
-#     article: City Tech Ranks Top Five Nationwide in College Mobility, Low-Income Students Go Far and Earn More
-#     link: http://www1.cuny.edu/mu/forum/2017/01/20/city-tech-ranks-top-five-nationwide-in-college-mobility-low-income-students-go-far-and-earn-more/
-
+      - site: cuny
+        article: City Tech Ranks Top Five Nationwide in College Mobility, Low-Income Students Go Far and Earn More
+        link: http://www1.cuny.edu/mu/forum/2017/01/20/city-tech-ranks-top-five-nationwide-in-college-mobility-low-income-students-go-far-and-earn-more/
+        author:
 
 
 

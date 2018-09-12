@@ -3,7 +3,7 @@
 
 <section id=content>
 {{ range sort .Site.Data.projects.press "weight" "asc"}}
-	<h5>{{ .section }}</h5><br>
+	<h5>{{ .section }}</h5>
 
 	<table width="100%">
 		<thead>
@@ -16,13 +16,11 @@
 		{{ range .articles }}
 		<tbody>
 			<tr>
-				<td style="vertical-align: top;">
+				<td style="vertical-align: middle;">
 					<img src="/assets/press/{{ .site }}.png" alt="" height="18" border="0">
 				</td>
-				<td style="vertical-align: top; color: black; margin: 10px; line-height: 25px; text-align: left;">
-					<p>
+				<td style="vertical-align: middle; color: black; margin: 10px; text-align: left; padding:2.5px;">
 						<a href="{{ .link }}" target="_blank">"{{ .article }}"</a> {{ if .author}} by {{.author}}{{ end }}
-					</p>
 				</td>
 				<td>
 				</td>
@@ -30,7 +28,7 @@
 		</tbody>
 		{{ end }}
 	</table>
-
+	<p><br></p>
 {{ end }}
 </section>
 
