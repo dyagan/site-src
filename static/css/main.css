@@ -13,9 +13,24 @@
   text-decoration-skip: ink;
 }
 
+/*FONT TOGGLING*/
+
+body{
+  font-family: 'Open sans', sans-serif;
+}
+
+.heading,.serif,h1,h2,h3, h4, h5 {
+  font-family: 'Work sans', sans-serif;
+}
+
+
+
+
+
+
 /*Font and size of the body*/
 body {
-font-family: 'Helvetica', Sans-Serif;
+/*  font-family: 'Helvetica', Sans-Serif;*/
 /* font-family: 'Open sans', sans-serif;*/
 /*  font-family: 'Muli', Sans-Serif;*/
   font-size: 15px;
@@ -27,7 +42,7 @@ font-family: 'Helvetica', Sans-Serif;
 
 /*Font of the headers*/
 .heading,.serif,h1,h2,h3, h4, h5 {
-  font-family: serif;
+/*  font-family: serif;*/
 /*font-family: 'Work sans', sans-serif;*/
 /*font-family: "Merriweather", serif;*/
 }
