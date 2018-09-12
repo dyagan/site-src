@@ -2,7 +2,7 @@
 title = "Danny Yagan - Mobility Report Cards"
 +++
 
-<h3> Mobility Report Cards for All 2,199 U.S. Colleges</h3>
+<h5> Mobility Report Cards for All 2,199 U.S. Colleges</h5>
 
 Constructed using our <a href="http://www.equality-of-opportunity.org/data/" rel="nofollow">publicly available data</a> from: "Mobility Report Cards: The Role of Colleges in Intergenerational Mobility" </b>(with R. Chetty, J. N. Friedman, E. Saez, and N. Turner). <br /><a href="http://www.equality-of-opportunity.org/assets/documents/coll_mrc_paper.pdf" rel="nofollow">Manuscript</a> (January 2017), <a href="http://www.equality-of-opportunity.org/assets/documents/coll_mrc_summary.pdf" rel="nofollow">non-technical summary</a>, <a href="http://www.equality-of-opportunity.org/assets/documents/coll_mrc_slides.pdf" rel="nofollow">slides</a>, <a href="http://www.equality-of-opportunity.org/college/" rel="nofollow">study website</a>, <a href="http://www.equality-of-opportunity.org/data/" rel="nofollow">data, </a><a href="https://www.nytimes.com/interactive/projects/college-mobility/california-state-university-los-angeles" rel="nofollow">NYT data tool</a>, and <a href="https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html" rel="nofollow">press</a><a href="https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html" rel="nofollow"> coverage</a>.
 

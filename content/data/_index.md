@@ -3,7 +3,7 @@ title = "Danny Yagan - Data"
 +++
 
 <h5>
-	<span>Employment Hysteresis from the Great Recession (JPE forthcoming)</span>
+Employment Hysteresis from the Great Recession (JPE forthcoming)
 </h5>
 
 Data and replication kit for all publicly replicable results. These public data essentially replicate the core confidential-data result (see Online Appendix Table 1). Shock variables are in Data Tables 1 (CZ-level) and 2 (state-level). 
@@ -24,7 +24,7 @@ Data and replication kit for all publicly replicable results. These public data 
 
 <br>
 <p>
-<h5><span>Mobility Report Cards: The Role of Colleges in Intergenerational Mobility (2018)</span></h5>
+<h5>Mobility Report Cards: The Role of Colleges in Intergenerational Mobility (2018)</h5>
 
 <ul>
 <div class="indent">	
@@ -37,7 +37,7 @@ Data and replication kit for all publicly replicable results. These public data 
 
 <br>
 <p>
-<h5><span>Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut (AER 2015)</span></h5>
+<h5>Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut (AER 2015)</h5>
 
 <ul>
 <div class="indent">	
@@ -48,7 +48,7 @@ Data and replication kit for all publicly replicable results. These public data 
 
 <br>
 <p>
-<h5><span>Business in the United States: Who Owns It and How Much Tax Do They Pay? (TPE 2016)</span></h5>
+<h5>Business in the United States: Who Owns It and How Much Tax Do They Pay? (TPE 2016)</h5>
 
 <ul>
 <div class="indent">	
@@ -61,7 +61,7 @@ Data and replication kit for all publicly replicable results. These public data 
 
 <br>
 <p>
-<h5><span>Optimal Taxation in Theory and Practice (JEP 2009)</span></h5>
+<h5>Optimal Taxation in Theory and Practice (JEP 2009)</h5>
 
 <ul>
 <div class="indent">	

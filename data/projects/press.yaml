@@ -1,0 +1,187 @@
+
+
+Taxes, Business, and Inequality:
+  section: Taxes, Business, and Inequality
+
+  weight: 1
+  
+  articles:
+
+    - site: vox
+      article: Obama critics say his tax proposal will hurt investment. The best evidence says it won't.
+      link: https://www.vox.com/2015/1/21/7863239/taxes-investment-yagan
+      author: Matthew Yglesias
+
+    - site: roosevelt
+      article: The 2003 Dividend Tax Cut Did Nothing to Help the Real Economy
+      link: http://rooseveltinstitute.org/2003-dividend-tax-cut-did-nothing-help-real-economy/
+      author: Mike Konczal
+
+    - site: vox
+      article: The best economic case for the GOP's new tax plan
+      link: https://www.vox.com/policy-and-politics/2017/9/29/16375160/gop-tax-plan-ryan-corporate-cut-full-expensing
+      author: Dylan Matthews
+
+    - site: bloomberg
+      article: The Case for Low Capital-Gains Taxes Grows Weaker
+      link: https://www.bloomberg.com/view/articles/2018-08-22/the-case-for-low-capital-gains-taxes-grows-weaker
+      author: Noah Smith
+
+    - site: vox
+      article: Senate Republicans are cutting health care to pay for a corporate tax cut
+      link: https://www.vox.com/policy-and-politics/2017/11/15/16654750/senate-republican-health-care-corporate-tax-cut
+      author: Dylan Matthews and Tara Golshan
+
+    - site: wp
+      article: Trump’s new plan to cut taxes for the rich makes no sense
+      link: https://www.washingtonpost.com/business/2018/07/31/trumps-new-plan-cut-taxes-rich-makes-no-sense/?utm_term=.96c38925ddfe
+      author: Matt O'Brien
+
+    - site: nyt
+      article: Rubio’s Call for No Capital Gains Tax Is a Break With the G.O.P.
+      link: https://www.nytimes.com/2016/02/04/upshot/rubios-call-for-no-capital-gains-tax-is-a-break-with-the-gop.html
+      author: Josh Barro
+
+    - site: forbes
+      article: This Isn't Proof That Dividend Tax Cuts Don't Aid The Economy
+      link: https://www.forbes.com/sites/timworstall/2015/01/21/this-isnt-proof-that-dividend-tax-cuts-dont-aid-the-economy/#38ae6c21574f
+      author: Tim Worstall
+
+    - site: nyt
+      article: For The Love Of Capital Income
+      link: https://krugman.blogs.nytimes.com/2015/01/22/for-the-love-of-capital-income/
+      author: Paul Krugman
+
+    - site: forbes
+      article: Krugman's Wrong Here, His Own Evidence Shows That Dividend Tax Cuts Work
+      link: https://www.forbes.com/sites/timworstall/2015/01/22/krugmans-wrong-here-his-own-evidence-shows-that-dividend-tax-cuts-work/#57ad72563471
+      author: Tim Worstall
+    
+    - site: wsj
+      article: Surprising Data on Who Owns U.S. Firms and How Much They Pay in Taxes
+      link: https://blogs.wsj.com/washwire/2015/09/24/surprising-data-on-who-owns-u-s-firms-and-how-much-they-pay-in-taxes/
+      author: David Wessel
+
+Recession Recovery:
+  section: Recession Recovery
+
+  weight: 2
+
+  articles:
+      - site: nyt
+        article: Why Some Scars From the Recessions May Never Vanish
+        link: https://www.nytimes.com/2017/10/05/business/economy/recession-recovery.html
+        author: Ben Casselman
+
+      - site: AtlanticMth
+        article: The Great Recession Is Still With Us
+        link: https://www.theatlantic.com/business/archive/2017/12/great-recession-still-with-us/547268/
+        author: Annie Lowrey
+
+      - site: wp
+        article: They're some of the unluckiest places in America - and may confirm what's wrong with the economy
+        link: https://www.washingtonpost.com/news/wonk/wp/2016/06/23/the-most-unlucky-places-in-america/?utm_term=.6a925759b427
+        author: Ana Swanson
+
+      - site: marginalrev
+        article: Not Moving to Opportunity
+        link: https://marginalrevolution.com/marginalrevolution/2016/03/not-moving-to-opportunity.html
+        author: Alex Tabarrok
+
+      - site: brookings
+        article: Adjusting to economic shocks tougher than thought
+        link: https://www.brookings.edu/blog/the-avenue/2016/04/18/adjusting-to-economic-shocks-tougher-than-thought/
+        author: Mark Muro
+
+      - site: economist
+        article: What will result from America’s strangely timed fiscal stimulus?
+        link: https://www.economist.com/united-states/2018/02/08/what-will-result-from-americas-strangely-timed-fiscal-stimulus
+        author:
+
+      - site: forbes
+        article: How To Give Workers More Security
+        link: https://www.forbes.com/sites/modeledbehavior/2017/04/23/how-to-give-workers-more-security/#1ab5739a756d
+        author: Adam Ozimek
+
+
+Education and Upward Mobility:
+  section: Education and Upward Mobility
+
+  weight: 3
+  
+  articles:
+      - site: nyt
+        article: The Case for $320,000 Kindergarten Teachers
+        link: https://www.nytimes.com/2010/07/28/business/economy/28leonhardt.html?mtrref=undefined&gwh=4DFC3ACA5ABA4EFE82170F103B1B1267&gwt=pay
+        author: David Leonhardt
+
+      - site: nyt
+        article: Some Colleges Have More Students From the Top 1 Percent Than the Bottom 60. Find Yours.
+        link: https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
+        author: Gregor Aisch, Larry Buchanan, Amanda Cox, and Kevin Quealy
+
+      - site: nyt
+        article: America's Great Working-Class Colleges
+        link: https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+        author: David Leonhardt
+
+      - site: nyt
+        article: "Economic Diversity and Student Outcomes at America's Colleges and Universities: Find Your College"
+        link: https://www.nytimes.com/interactive/projects/college-mobility/
+        author:
+
+
+
+
+
+
+
+
+
+
+
+
+# COLLEGE PRESS
+
+
+# other:
+
+#   - site: politico
+#     article: How U.S. News college rankings promote economic inequality on campus
+#     link: https://www.politico.com/interactives/2017/top-college-rankings-list-2017-us-news-investigation/
+
+#   - site: AtlanticMth
+#     article: The Myth of American Universities as Inequality-Fighters
+#     link: https://www.theatlantic.com/business/archive/2017/08/universities-inequality-fighters/538566/
+
+#   - site: wp
+#     article: "New rankings tackle old problem: Measuring the outcome of college"
+#     link: https://www.washingtonpost.com/news/grade-point/wp/2017/07/10/new-rankings-tackle-old-problem-measuring-the-outcome-of-college/?noredirect=on&utm_term=.e468ec4f67d4
+
+#   - site: vox
+#     article: "These colleges are better than Harvard at making poor kids rich"
+#     link: https://www.vox.com/policy-and-politics/2017/2/28/14359140/chetty-friedman-college-mobility
+
+#   - site: economist
+#     article: Skipping class
+#     link: www.economist.com/news/united-states/21715735-new-data-show-joining-1-remains-unsettlingly-hereditary-skipping-class
+
+#   - site: forbes
+#     article: Higher Education's Questionable Equality-of-Opportunity Promise
+#     link: https://www.forbes.com/sites/prestoncooper2/2017/01/25/higher-educations-questionable-equality-of-opportunity-promise/
+
+#   - site: sacbee
+#     article: Which California Colleges Help Transform Impoverished Students into Wealthy Adults
+#     link: https://www.sacbee.com/news/state/california/article128346494.html
+
+#   - site: csmonitor
+#     article: Why Cal State L.A. Turns the Most Low-Income Students into Top Earners
+#     link: https://www.csmonitor.com/EqualEd/2017/0124/Why-Cal-State-L.A.-turns-the-most-low-income-students-into-top-earners
+
+#   - site: cuny
+#     article: City Tech Ranks Top Five Nationwide in College Mobility, Low-Income Students Go Far and Earn More
+#     link: http://www1.cuny.edu/mu/forum/2017/01/20/city-tech-ranks-top-five-nationwide-in-college-mobility-low-income-students-go-far-and-earn-more/
+
+
+
+

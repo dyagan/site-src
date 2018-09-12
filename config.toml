@@ -8,8 +8,8 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Prof. Danny Yagan"
-  subheading = "UC Berkeley Economics"
+  sitename = "Danny Yagan"
+  subheading = "UC Berkeley Economics Professor"
   disableWebFonts = false
 
 [[menu.main]]

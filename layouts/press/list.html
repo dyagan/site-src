@@ -2,41 +2,36 @@
 {{ partial "header.html" . }}
 
 <section id=content>
-{{ range sort .Site.Data.projects "weight" "desc" }}
+{{ range sort .Site.Data.projects.press "weight" "asc"}}
+	<h5>{{ .section }}</h5><br>
 
-	{{ if .press }}
+	<table width="100%">
+		<thead>
+			<tr>
+				<th style="text-align: center;" width="15%"></th>
+				<th style="text-align: left;" width="85%"></th>
+			</tr>
+		</thead>
 
-		<h5>{{ .title }}</h5>
-
-		<table width="100%">
-			<thead>
-				<tr>
-					<th style="text-align: center;" width="15%"></th>
-					<th style="text-align: left;" width="85%"></th>
-				</tr>
-			</thead>
-
-			{{ range .press }}
-				<tbody>
-					<tr>
-						<td style="vertical-align: top;">
-							<img src="/assets/press/{{ .site }}.png" alt="" height="18" border="0">
-						</td>
-						<td style="vertical-align: top; color: black; margin: 10px; line-height: 25px; text-align: left;">
-							<p>
-								<a href="{{ .link }}" target="_blank">"{{ .article }}"</a>
-							</p>
-						</td>
-						<td>
-						</td>
-					</tr>
-				</tbody>
-			{{ end }}
-
-		</table>
-
-	{{ end }}
+		{{ range .articles }}
+		<tbody>
+			<tr>
+				<td style="vertical-align: top;">
+					<img src="/assets/press/{{ .site }}.png" alt="" height="18" border="0">
+				</td>
+				<td style="vertical-align: top; color: black; margin: 10px; line-height: 25px; text-align: left;">
+					<p>
+						<a href="{{ .link }}" target="_blank">"{{ .article }}"</a> {{ if .author}} by {{.author}}{{ end }}
+					</p>
+				</td>
+				<td>
+				</td>
+			</tr>
+		</tbody>
+		{{ end }}
+	</table>
 
 {{ end }}
 </section>
+
 {{ partial "footer.html" . }}
