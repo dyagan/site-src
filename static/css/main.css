@@ -261,18 +261,13 @@ ul li:before {
   border-bottom:1px dashed;
 }
 
+.current {
+  border-bottom: 1px solid;
+}
 
 /*.btn {
   border: none;  
 }*/
-
-/* Style the active class*/
-/*#nav .activity, {
-  background-color: transparent;
-  border-bottom:1px dashed;
-}*/
-
-
 
 #nav {
   text-align:center;
