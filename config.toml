@@ -18,21 +18,21 @@ pygmentscodefences  = true
     weight = 1
 [[menu.main]]
     name = "Bio"
-    url = "/bio/index.html"
+    url = "/bio/"
     weight = 2
 [[menu.main]]
     name = "Research"
-    url = "/research/index.html"
+    url = "/research/"
     weight = 3
 [[menu.main]]
     name = "Data"
-    url = "/data/index.html"
+    url = "/data/"
     weight = 4
 [[menu.main]]
     name = "Teaching"
-    url = "/teaching/index.html"
+    url = "/teaching/"
     weight = 5
 [[menu.main]]
     name = "Press"
-    url = "/press/index.html"
+    url = "/press/"
     weight = 6
