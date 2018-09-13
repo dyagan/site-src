@@ -7,20 +7,20 @@
   margin:0;
   padding:0;
   color: #282828;
-  background: white;
- /* background: #FFFFFC;*/
-/*  background: whitesmoke;*/
+/*  background: white;*/
+/*  background: #FFFFFC;*/
+  background: whitesmoke;
   text-decoration-skip: ink;
 }
 
 /*FONT TOGGLING*/
 
 body{
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Helvetica', Sans-Serif;
 }
 
 .heading,.serif,h1,h2,h3, h4, h5 {
-  font-family: 'Work sans', sans-serif;
+  font-family: serif;
 }
 
 
