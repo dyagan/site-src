@@ -96,7 +96,8 @@ h5 {
 }
 
 #content a:hover{
-  color: #B80000;
+  color: #a40000;
+/*  color: #B80000;*/
   text-decoration: underline;
 }
 
