@@ -1,12 +1,15 @@
 <body>
   <section id=nav>
   	<header id="header" class="header">
-    <h1><a href="/">{{ .Site.Params.sitename }}</a></h1>
-    <h4><a href="https://www.econ.berkeley.edu/">{{ .Site.Params.subheading }}</a></h4>
-    <ul>
-      {{ range .Site.Menus.main }}
-       <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
-	</header>
+
+      <h1><a href="/">{{ .Site.Params.sitename }}</a></h1>
+      <h4><a href="https://www.econ.berkeley.edu/">{{ .Site.Params.subheading }}</a></h4>
+      
+      <ul>
+        {{ range .Site.Menus.main }}
+            <li><a class="btn" href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+
+    </header>
   </section>
