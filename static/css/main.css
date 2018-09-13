@@ -271,8 +271,10 @@ ul li:before {
 
 #nav {
   text-align:center;
-  position:static;
+  position: static;
   margin-top:60px;
+  width: 100%;
+  background: white;
 }
 
 /*this margin changes the distance between the sub-title and the menu items*/
@@ -288,8 +290,9 @@ ul li:before {
   padding: 0 20px;
 }
 
-.header.navbar-fixed-top {
-  z-index: 999;
+#nav.navbar-fixed-top {
+    z-index: 999;
+    top: 0;
 }
 
 #links {
