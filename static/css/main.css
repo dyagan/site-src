@@ -101,7 +101,8 @@ h5 {
 }
 
 #content a:hover{
-  color: #B80000;
+  color: #a40000;
+/*  color: #B80000;*/
   text-decoration: underline;
 }
 
@@ -280,23 +281,20 @@ ul li:before {
   border-bottom:1px dashed;
 }
 
+.current {
+  border-bottom: 1px solid !important;
+}
 
 /*.btn {
   border: none;  
 }*/
 
-/* Style the active class*/
-/*#nav .activity, {
-  background-color: transparent;
-  border-bottom:1px dashed;
-}*/
-
-
-
 #nav {
   text-align:center;
-  position:static;
+  position: static;
   margin-top:60px;
+  width: 100%;
+  background: white;
 }
 
 /*this margin changes the distance between the sub-title and the menu items*/
@@ -312,8 +310,9 @@ ul li:before {
   padding: 0 20px;
 }
 
-.header.navbar-fixed-top {
-  z-index: 999;
+#nav.navbar-fixed-top {
+    z-index: 999;
+    top: 0;
 }
 
 #links {
@@ -359,7 +358,7 @@ ul li:before {
   }
 
   #nav h1 a {
-    font-size:28px;
+    font-size:32px;
   }
 
   #nav li {
@@ -393,7 +392,7 @@ ul li:before {
   }
 
   #nav h1 a {
-    font-size:22px;
+    font-size:25px;
   }
 
   #nav li {

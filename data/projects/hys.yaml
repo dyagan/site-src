@@ -1,7 +1,7 @@
 title: "Employment Hysteresis from the Great Recession"
 coauthors: 
 pdf: https://eml.berkeley.edu/~yagan/Hysteresis.pdf
-publication: forthcoming
+publication: ", forthcoming"
 journal: Journal of Political Economy
 year: 
 comments:  
@@ -16,7 +16,7 @@ relic: false
 
 see_also:
 
-  - text: version with migration results
+  - text: version with migration results (separate draft coming soon)
     link: https://eml.berkeley.edu/~yagan/MigratoryInsurance.pdf
 
   - text: data
