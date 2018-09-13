@@ -41,7 +41,8 @@
 		<p>
 		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
 		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
-		{{ if .publication }} <span id="journal">{{ .journal }}</span> {{ .year }}, {{ .publication }}. <br>{{ end }}
+		{{ if .publication }} <span id="journal">{{ .journal }}</span>{{if .year}} {{ .year }}, {{ end }}{{ .publication }}. <br>
+		{{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}
 		{{ if .see_also }} 
 			See also: 
