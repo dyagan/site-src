@@ -9,7 +9,7 @@ pygmentscodefences  = true
 
 [params]
   sitename = "Danny Yagan"
-  subheading = "UC Berkeley Economics Professor"
+  subheading = "UC Berkeley economics professor"
   disableWebFonts = false
 
 [[menu.main]]
@@ -17,8 +17,8 @@ pygmentscodefences  = true
     url  = "/"
     weight = 1
 [[menu.main]]
-    name = "Bio"
-    url = "/bio/"
+    name = "CV"
+    url = "/cv/"
     weight = 2
 [[menu.main]]
     name = "Research"
