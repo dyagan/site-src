@@ -15,12 +15,17 @@
 /*FONT TOGGLING*/
 
 body{
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Muli', Sans-Serif;
 }
 
 .heading,.serif,h1,h2,h3, h4, h5 {
-  font-family: 'Work sans', sans-serif;
+  font-family: "Merriweather", serif;
 }
+
+
+
+
+
 
 
 
