@@ -27,20 +27,20 @@ Taxes, Business, and Inequality:
       link: https://www.bloomberg.com/view/articles/2018-08-22/the-case-for-low-capital-gains-taxes-grows-weaker
       author: Noah Smith
 
-    - site: vox
-      article: Senate Republicans are cutting health care to pay for a corporate tax cut
-      link: https://www.vox.com/policy-and-politics/2017/11/15/16654750/senate-republican-health-care-corporate-tax-cut
-      author: Dylan Matthews and Tara Golshan
+    - site: nyt
+      article: Rubio’s Call for No Capital Gains Tax Is a Break With the G.O.P.
+      link: https://www.nytimes.com/2016/02/04/upshot/rubios-call-for-no-capital-gains-tax-is-a-break-with-the-gop.html
+      author: Josh Barro
 
     - site: wp
       article: Trump’s new plan to cut taxes for the rich makes no sense
       link: https://www.washingtonpost.com/business/2018/07/31/trumps-new-plan-cut-taxes-rich-makes-no-sense/?utm_term=.96c38925ddfe
       author: Matt O'Brien
 
-    - site: nyt
-      article: Rubio’s Call for No Capital Gains Tax Is a Break With the G.O.P.
-      link: https://www.nytimes.com/2016/02/04/upshot/rubios-call-for-no-capital-gains-tax-is-a-break-with-the-gop.html
-      author: Josh Barro
+    - site: vox
+      article: Senate Republicans are cutting health care to pay for a corporate tax cut
+      link: https://www.vox.com/policy-and-politics/2017/11/15/16654750/senate-republican-health-care-corporate-tax-cut
+      author: Dylan Matthews and Tara Golshan      
 
     - site: forbes
       article: This Isn't Proof That Dividend Tax Cuts Don't Aid The Economy
