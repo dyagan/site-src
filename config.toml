@@ -9,7 +9,7 @@ pygmentscodefences  = true
 
 [params]
   sitename = "Danny Yagan"
-  subheading = "UC Berkeley economics professor"
+  subheading = "UC Berkeley Economics"
   disableWebFonts = false
 
 [[menu.main]]
