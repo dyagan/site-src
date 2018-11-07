@@ -1,0 +1,19 @@
+countycards: 
+    - filename: Autauga_AL.pdf 
+      text: Alabama - Autauga County 
+    - filename: Baldwin_AL.pdf 
+      text: Alabama - Baldwin County 
+    - filename: Barbour_AL.pdf 
+      text: Alabama - Barbour County 
+    - filename: Bibb_AL.pdf 
+      text: Alabama - Bibb County 
+    - filename: Blount_AL.pdf 
+      text: Alabama - Blount County 
+    - filename: Bullock_AL.pdf 
+      text: Alabama - Bullock County 
+    - filename: Butler_AL.pdf 
+      text: Alabama - Butler County 
+    - filename: Calhoun_AL.pdf 
+      text: Alabama - Calhoun County 
+    - filename: Chambers_AL.pdf 
+      text: Alabama - Chambers County 
