@@ -1,5 +1,5 @@
 +++
-title = "Danny Yagan - County Snapshots"
+title = "Danny Yagan - County Fact Sheets"
 layout = "county-cards"
 +++
 

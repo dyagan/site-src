@@ -29,7 +29,7 @@ Data and replication kit for all publicly replicable results. These public data 
 <ul>
 <div class="indent">	
 <li><a href="http://www.equality-of-opportunity.org/data/" target="_blank">Data and replication kit</a></li>
-<li><a href="/projects/college" target="_blank">Three-page Mobility Report Cards for all 2,199 colleges</a></li>
+<li><a href="/colleges" target="_blank">Three-page Mobility Report Cards for all 2,199 colleges</a></li>
 <div class="indent">	
 </ul>
 
