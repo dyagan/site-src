@@ -33,7 +33,7 @@ body {
 
 
 /*Font of the headers*/
-.heading,.serif,h1,h2,h3, h4, h5 {
+.heading,.serif,h1,h2,h3, h4, h5, .collapsible {
   font-family: 'Libre Baskerville', serif;
 }
 
@@ -463,26 +463,12 @@ ul li:before {
 
 
 /**************************************************/
-/*simple method - doesn't need javascript*/
-/**************************************************/
-@media only screen and (max-width : 600px) {
-  #nav .simple li {
-    width: 100% ;
-    display: block;
-    text-align: left;
-    float: left;
-    padding-bottom: 3px;
-    font-size:14px;
-  }
-}
-
-/**************************************************/
 /*collapsible box method - needs javascript*/
 /*makes has two different menus for the big and small menus*/
 /**************************************************/
 .collapsible {
-  font-size: 0px;
-  padding: 0px ;
+  display: none;
+  overflow: hidden;
 }
 #nav .box li {
   font-size: 0px;
@@ -490,7 +476,8 @@ ul li:before {
 }
 
 .box {
-  height: 0px;
+  display: none;
+  overflow: hidden;
 }
 .big {
   height: auto;
@@ -529,20 +516,26 @@ ul li:before {
   /* Style the button that is used to open and close the collapsible content */
   .collapsible {
     background-color: #eee;
-    color: #444;
     cursor: pointer;
     padding: 18px;
     width: 100%;
     border: none;
     text-align: left;
     outline: none;
-    font-size: 15px;
-    margin-top: 20px
+    font-size: 14px;
+    display: block;
+    /*margin-top: 20px*/
+    
+  }
+  /* Style the hamburger icon*/
+  .fa {
+    float: right;
+    background-color: transparent !important; 
   }
 
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
   .open, .collapsible:hover {
-    background-color: #ccc;
+    background-color: #ccc !important;
   }
 
   /* Style the collapsible content. Note: hidden by default */
@@ -556,12 +549,11 @@ ul li:before {
     width: 100%;
     padding: 3px 0px;
     margin-bottom: 20px;
-    display: block;
     float: left;
     height: auto;
     border: solid;
     border-color: #ccc ; 
-    border-width: 3px ; 
+    border-width: 2px ; 
   }
 }
 

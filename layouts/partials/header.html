@@ -5,17 +5,6 @@
       <h1><a href="/">{{ .Site.Params.sitename }}</a></h1>
       <h4><a href="https://www.econ.berkeley.edu/">{{ .Site.Params.subheading }}</a></h4>
    	
-   	<!-- simple method -->
-      <div class="simple">
-        <ul>
-          {{ range .Site.Menus.main }}
-            <li>
-                <a class="btn" href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
-      
     <!-- two different menus method -->
       <div class="big">
         <ul>
@@ -27,7 +16,10 @@
         </ul>
       </div>
 
-        <button class="collapsible">Menu</button>
+        <button class="collapsible">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
         <div class="box">
           <ul>
             {{ range .Site.Menus.main }}
@@ -41,7 +33,7 @@
     <!-- trying a single responsive menu method -->
     	<!-- where would be a better place to load an icon? head? -->
 		<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 		<div class="topnav" id="myTopnav">
@@ -52,20 +44,7 @@
 		  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
 		    <i class="fa fa-bars"></i>
 		  </a>
-		</div>
-
- <!--        <div class="topnav" id="myTopnav">
-            <a href="/">Home</a>
-            <a href="/cv/">CV</a>
-            <a href="/research/">Research</a>
-            <a href="/teaching/">Teaching</a>
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-              <i class="fa fa-bars"></i>
-            </a>
-            
-            
-        </div> -->
-
+		</div> -->
 
 
     </header>
