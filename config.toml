@@ -33,10 +33,14 @@ pygmentscodefences  = true
     url = "/data/"
     weight = 5
 [[menu.main]]
+    name = "Counties"
+    url = "/counties/"
+    weight = 6
+[[menu.main]]
     name = "Colleges"
     url = "/colleges/"
-    weight = 6
+    weight = 7
 [[menu.main]]
     name = "Press"
     url = "/press/"
-    weight = 7
+    weight = 8
