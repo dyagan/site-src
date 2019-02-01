@@ -5,6 +5,9 @@ publication:
 journal: Quarterly Journal of Economics
 comments: 
 revision: Revised and resubmitted to 
+policy_brief: 
+  - text: Tax Avoidance at the Top
+    link: https://eml.berkeley.edu/~yagan/Capitalists_PolicyBrief.pdf
 
 # FOR SORTING
 weight: 10
