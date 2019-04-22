@@ -3,7 +3,7 @@ title = "Danny Yagan - Data"
 +++
 
 <h5>
-Employment Hysteresis from the Great Recession (JPE forthcoming)
+Employment 'Hysteresis' from the Great Recession (JPE forthcoming)
 </h5>
 
 Data and replication kit for all publicly replicable results. These public data essentially replicate the core confidential-data result (see Online Appendix Table 1). Shock variables are in Data Tables 1 (CZ-level) and 2 (state-level). 
