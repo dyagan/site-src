@@ -1,19 +1,18 @@
 title: Capitalists in the Twenty-First Century
 coauthors: M. Smith, O. Zidar, and E. Zwick
 pdf: https://eml.berkeley.edu/~yagan/Capitalists.pdf
-publication: 
+publication: ", forthcoming"
 journal: Quarterly Journal of Economics
 comments: 
-revision: Revision (second round) invited at 
 policy_brief: 
   - text: Tax Avoidance at the Top
     link: https://eml.berkeley.edu/~yagan/Capitalists_PolicyBrief.pdf
 
 # FOR SORTING
-weight: 10
+weight: 9
 
-working: true
-published: false
+working: false
+published: true
 resting: false
 relic: false
 
