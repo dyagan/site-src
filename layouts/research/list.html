@@ -50,6 +50,14 @@
 		{{ if .publication }} <span id="journal">{{ .journal }}</span>{{if .year}} {{ .year }}, {{ end }}{{ .publication }}. <br>
 		{{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}
+
+        {{ if .policy_brief }} 
+			Policy brief: 
+			{{ range .policy_brief }}
+				<span id="policy_brief"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
+			{{ end }}
+		{{ end }}
+
 		{{ if .see_also }} 
 			See also: 
 			{{ range .see_also }}
