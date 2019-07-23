@@ -1,6 +1,6 @@
-title: "Mobility Report Cards: The Role of Colleges in Intergenerational Mobility"
+title: "Income Segregation and Intergenerational Mobility Across Colleges in the United States"
 coauthors: R. Chetty, J. N. Friedman, E. Saez, and N. Turner
-pdf: http://www.equality-of-opportunity.org/assets/documents/coll_mrc_paper.pdf
+pdf: https://eml.berkeley.edu/~yagan/Colleges.pdf
 publication: 
 journal: Quarterly Journal of Economics
 year:
@@ -18,19 +18,19 @@ relic: false
 see_also:
 
   - text: summary
-    link: http://www.equality-of-opportunity.org/assets/documents/coll_mrc_summary.pdf
+    link: https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_summary.pdf
 
   - text: slides
-    link: http://www.equality-of-opportunity.org/assets/documents/coll_mrc_slides.pdf
+    link: https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_slides.pdf
 
   - text: study website
-    link: http://www.equality-of-opportunity.org/college/
+    link: https://opportunityinsights.org/paper/mobilityreportcards/
 
   - text: data
-    link: http://www.equality-of-opportunity.org/data/
+    link: https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=536#resource-listing
 
   - text: mobility report cards for every college
-    link: https://dyagan.github.io/colleges/
+    link: ../colleges/
 
 press: 
 
