@@ -15,7 +15,7 @@
 {{ range sort .Site.Data.projects "weight" "desc" }}
 	{{ if .working }}
 		<p>
-		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
+		{{ if .pdf }} <a href="{{ .pdf }}" target="_blank">{{ end }}{{ .title }}{{ if .pdf }}</a>{{ end }}<br>
 		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
 		{{ if .publication }} {{ .publication }} <br>{{ end }}
 		{{ if .revision }} {{ .revision }} <span id="journal">{{ .journal }}</span>. <br>{{ end }}
