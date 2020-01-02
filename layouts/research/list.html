@@ -47,8 +47,9 @@
 		<p>
 		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
 		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
-		{{ if .publication }} <span id="journal">{{ .journal }}</span>{{if .year}} {{ .year }}, {{ end }}{{ .publication }}. <br>
-		{{ end }}
+		{{ if .journal }}
+			{{ if .revision }} {{ .revision }}{{ end }}
+			<span id="journal">{{ .journal }}</span>{{if .year}} {{ .year }}{{if .publication}}, {{ .publication }}{{ end }}{{ end }}. <br> {{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}
 
         {{ if .policy_brief }} 

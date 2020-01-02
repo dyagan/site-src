@@ -1,17 +1,17 @@
 title: "Income Segregation and Intergenerational Mobility Across Colleges in the United States"
 coauthors: R. Chetty, J. N. Friedman, E. Saez, and N. Turner
 pdf: https://eml.berkeley.edu/~yagan/Colleges_July2019.pdf
-publication: 
+publication:
 journal: Quarterly Journal of Economics
 year:
 comments: 
-revision: Conditional accept at
+revision: Forthcoming in
 
 # FOR SORTING
-weight: 9
+weight: 10
 
-working: true
-published: false
+working: false
+published: true
 resting: false
 relic: false
 
