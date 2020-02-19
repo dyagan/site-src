@@ -1,6 +1,6 @@
 title: "Income Segregation and Intergenerational Mobility Across Colleges in the United States"
 coauthors: R. Chetty, J. N. Friedman, E. Saez, and N. Turner
-pdf: https://eml.berkeley.edu/~yagan/Colleges.pdf
+pdf: https://opportunityinsights.org/wp-content/uploads/2020/02/coll_mrc_qje_paper.pdf
 publication:
 journal: Quarterly Journal of Economics
 year:
@@ -17,11 +17,8 @@ relic: false
 
 see_also:
 
-  - text: summary
-    link: https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_summary.pdf
-
   - text: slides
-    link: https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_slides.pdf
+    link: https://opportunityinsights.org/wp-content/uploads/2020/02/coll_mrc_qje_slides.pdf
 
   - text: study website
     link: https://opportunityinsights.org/paper/mobilityreportcards/
@@ -31,6 +28,18 @@ see_also:
 
   - text: mobility report cards for every college
     link: ../colleges/
+
+  - text: previous version
+    link: https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_paper.pdf
+
+  - text: non-technical summary of original findings
+    link: https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_summary.pdf
+
+  - text: non-technical summary of added findings
+    link: https://opportunityinsights.org/wp-content/uploads/2020/02/coll_undermatch_exec_summary.pdf
+
+tech_summ:
+  - text: non-technical summary of <a href="https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_summary.pdf" target="_blank">original</a> and <a href="https://opportunityinsights.org/wp-content/uploads/2020/02/coll_undermatch_exec_summary.pdf" target="_blank">added</a> findings
 
 press: 
 
@@ -81,6 +90,10 @@ press:
   - site: nyt
     article: "Economic Diversity and Student Outcomes at America's Colleges and Universities: Find Your College"
     link: https://www.nytimes.com/interactive/projects/college-mobility/
+
+  - site: nyt
+    article: A Simple Way to Equalize the Ivies? Give Others the Legacy SAT Bonus
+    link: https://www.nytimes.com/2020/02/12/us/SAT-bonus-ivy-league.html
 
 data:
 

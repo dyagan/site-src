@@ -65,6 +65,11 @@
 				<span id="see-also"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
 			{{ end }}
 		{{ end }}
+		{{ if .mrc_tech_summ }}
+			{{ range .mrc_tech_summ }}
+				{{ .text }}
+			{{ end }}
+		{{ end }}
 		</p>
 	{{ end }}
 {{ end }}
