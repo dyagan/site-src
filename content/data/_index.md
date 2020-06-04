@@ -2,8 +2,16 @@
 title = "Danny Yagan - Data"
 +++
 
+<h5>Job Numbers across Countries since COVID-19</h5>
+<ul>
+<div class="indent">
+<li><a href="http://eml.berkeley.edu/~yagan/GRY_jobs-x-country_data.xlsx">Data</a>
+</div>
+</ul>
+<br>
+
 <h5>
-Employment Hysteresis from the Great Recession (JPE forthcoming)
+Employment Hysteresis from the Great Recession (JPE 2019)
 </h5>
 
 Data and replication kit for all publicly replicable results. These public data essentially replicate the core confidential-data result (see Online Appendix Table 1). Shock variables are in Data Tables 1 (CZ-level) and 2 (state-level). 
@@ -24,7 +32,7 @@ Data and replication kit for all publicly replicable results. These public data 
 
 <br>
 <p>
-<h5>Mobility Report Cards: The Role of Colleges in Intergenerational Mobility (2018)</h5>
+<h5>Income Segregation and Intergenerational Mobility Across Colleges in the United States (QJE forthcoming)</h5>
 
 <ul>
 <div class="indent">	
