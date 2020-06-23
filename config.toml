@@ -36,3 +36,6 @@ pygmentscodefences  = true
     name = "Press"
     url = "/press/"
     weight = 6
+
+[markup.goldmark.renderer]
+unsafe = true
