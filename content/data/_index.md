@@ -32,7 +32,7 @@ Data and replication kit for all publicly replicable results. These public data 
 
 <br>
 <p>
-<h5>Income Segregation and Intergenerational Mobility Across Colleges in the United States (QJE forthcoming)</h5>
+<h5>Income Segregation and Intergenerational Mobility Across Colleges in the United States (QJE 2020)</h5>
 
 <ul>
 <div class="indent">	
