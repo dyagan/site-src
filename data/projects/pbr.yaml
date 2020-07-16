@@ -6,6 +6,10 @@ journal:
 year:
 comments:
 revision: 
+see_also:
+
+  - text: slides
+    link: http://eml.berkeley.edu/~yagan/PlaceBasedRedistribution_slides.pdf
 
 # FOR SORTING
 weight: 11
