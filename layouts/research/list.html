@@ -20,6 +20,7 @@
 		{{ if .publication }} {{ .publication }} <br>{{ end }}
 		{{ if .revision }} {{ .revision }} <span id="journal">{{ .journal }}</span>. <br>{{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}
+		{{ if .forthcoming }} To appear in {{ .year }} <span id="journal">{{ .journal }}</span>. <br>{{ end }}
 		{{ if .see_also }} 
 			See also: 
 			{{ range .see_also }}
