@@ -1,0 +1,20 @@
+title: "Capital Gains Withholding"
+coauthors: E. Saez and G. Zucman
+pdf: http://eml.berkeley.edu/~yagan/CapitalGainsWithholding.pdf
+publication: 
+journal: 
+year:
+comments:
+revision: 
+see_also:
+
+  - text: slides
+    link: http://eml.berkeley.edu/~yagan/CapitalGainsWithholding_slides.pdf
+
+# FOR SORTING
+weight: 8
+
+working: true
+published: false
+resting: false
+relic: false
