@@ -1,18 +1,18 @@
 title: "Trends in U.S. Spatial Inequality: Concentrating Affluence and a Democratization of Poverty"
 coauthors: C. Gaubert, P. Kline, and D. Vergara
 pdf: http://eml.berkeley.edu/~yagan/InequalityAcrossSpace.pdf
-publication: 
+publication: volume 111, pp.520-525.
 journal: AEA Papers and Proceedings
-year: May 2021 
+year: 2021
 comments: 
 revision: 
 
 # FOR SORTING
 weight: 10
 
-working: true
-forthcoming: true
-published: false
+working: false
+forthcoming: false
+published: true
 resting: false
 relic: false
 
