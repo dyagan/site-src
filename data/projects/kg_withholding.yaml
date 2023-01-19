@@ -3,7 +3,7 @@ coauthors: E. Saez and G. Zucman
 pdf: http://eml.berkeley.edu/~yagan/CapitalGainsWithholding.pdf
 publication: 
 journal: 
-year:
+year: 2021
 comments:
 revision: 
 see_also:
@@ -12,9 +12,9 @@ see_also:
     link: http://eml.berkeley.edu/~yagan/CapitalGainsWithholding_slides.pdf
 
 # FOR SORTING
-weight: 8
+weight: 5
 
-working: true
+working: false
 published: false
-resting: false
+resting: true
 relic: false

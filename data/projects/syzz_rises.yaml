@@ -1,16 +1,16 @@
 title: "The Rise of Pass-Throughs and the Decline of the Labor Share"
 coauthors: M. Smith, O. Zidar, and E. Zwick 
 pdf:  http://eml.berkeley.edu/~yagan/LaborShare.pdf
-publication: 
+publication: volume 4(3) pp.323-340
 journal: "American Economic Review: Insights"
-year:
+year: 2022
 comments: 
-revision: Conditionally accepted at
+revision: 
 
 # FOR SORTING
-weight: 9
+weight: 12
 
-working: true
-published: false
+working: false
+published: true
 resting: false
 relic: false

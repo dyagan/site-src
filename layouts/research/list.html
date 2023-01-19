@@ -84,7 +84,7 @@
 {{ range sort .Site.Data.projects "weight" "desc" }}
 	{{ if .resting }}
 		<p>
-		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a><br>
+		<a href="{{ .pdf }}" target="_blank">{{ .title }}</a> {{ if .year }} ({{ .year }}) <br>{{ end }}
 		{{ if .coauthors }} (with {{ .coauthors }}) <br>{{ end }}
 		{{ if .publication }} {{ .publication }} <br>{{ end }}
 		{{ if .comments }} {{ .comments }} <br>{{ end }}

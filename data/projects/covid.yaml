@@ -3,7 +3,7 @@ coauthors: M. Gimbel and J. Rothstein
 pdf: http://eml.berkeley.edu/~yagan/GRY_jobs-x-country.pdf
 publication: 
 journal: 
-year:
+year: 2020
 comments: 
 revision: 
 see_also:
@@ -14,9 +14,9 @@ see_also:
 
 
 # FOR SORTING
-weight: 6
+weight: 3
 
-working: true
+working: false
 published: false
-resting: false
+resting: true
 relic: false

@@ -3,14 +3,14 @@ coauthors: E. Saez and G. Zucman
 pdf: http://eml.berkeley.edu/~yagan/ImprovingTaxReporting.pdf
 publication: 
 journal: 
-year:
+year: 2020
 comments:
 revision: 
 
 # FOR SORTING
-weight: 7
+weight: 4
 
-working: true
+working: false
 published: false
-resting: false
+resting: true
 relic: false
