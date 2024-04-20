@@ -1,0 +1,21 @@
+title: "What Is the Average Federal Individual Income Tax Rate on the Wealthiest Americans?"
+coauthors: 
+pdf: http://eml.berkeley.edu/~yagan/Top400FedIndRate.pdf 
+publication: "volume 39, pp.438-450"
+journal: Oxford Review of Economic Policy
+year: "2023"
+comments:  
+
+# FOR SORTING
+weight: 13
+
+working: false
+published: true
+resting: false
+relic: false
+
+see_also:
+
+  - text: Original White House blog post version with Greg Leiserson 
+    link: https://www.whitehouse.gov/cea/written-materials/2021/09/23/what-is-the-average-federal-individual-income-tax-rate-on-the-wealthiest-americans/ 
+
