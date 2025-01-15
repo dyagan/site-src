@@ -39,3 +39,7 @@ pygmentscodefences  = true
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[taxonomies]
+tag = ""
+category = ""
