@@ -8,6 +8,30 @@ title = "Danny Yagan - Data"
 <li><a href="https://eml.berkeley.edu/~yagan/GrowthDividendExcessInterest_repkit.zip">Data and replication kit</a>
 </div>
 </ul>
+
+<br>
+<p>
+<h5>Trends in U.S. Spatial Inequality: Concentrating Affluence and a Democratization of Poverty (AEA P&P 2021)</h5>
+<ul>
+<div class="indent">
+<li><a href="https://eml.berkeley.edu/~yagan/InequalityAcrossSpace_repkit.zip">Data and replication kit</a>
+</div>
+</ul>
+
+<br>
+<p>
+<h5>Income Segregation and Intergenerational Mobility Across Colleges in the United States (QJE 2020)</h5>
+
+<ul>
+<div class="indent">	
+<li><a href="https://www.equality-of-opportunity.org/data/" target="_blank">Data and replication kit</a></li>
+<li><a href="/colleges" target="_blank">Three-page Mobility Report Cards for all 2,199 colleges</a></li>
+<div class="indent">	
+</ul>
+
+</p>
+
+
 <br>
 
 <h5>
@@ -30,29 +54,6 @@ Data and replication kit for all publicly replicable results. These public data 
 </ul>
 </p>
 
-<br>
-<p>
-<h5>Income Segregation and Intergenerational Mobility Across Colleges in the United States (QJE 2020)</h5>
-
-<ul>
-<div class="indent">	
-<li><a href="https://www.equality-of-opportunity.org/data/" target="_blank">Data and replication kit</a></li>
-<li><a href="/colleges" target="_blank">Three-page Mobility Report Cards for all 2,199 colleges</a></li>
-<div class="indent">	
-</ul>
-
-</p>
-
-<br>
-<p>
-<h5>Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut (AER 2015)</h5>
-
-<ul>
-<div class="indent">	
-<li><a href="https://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip" target="_blank">Stata do files with adaptable code for firm-specific capital costs</a></li>
-<div class="indent">	
-</ul>
-</p>
 
 <br>
 <p>
@@ -64,6 +65,18 @@ Data and replication kit for all publicly replicable results. These public data 
 <div class="indent">	
 </ul>
 
+</p>
+
+
+<br>
+<p>
+<h5>Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut (AER 2015)</h5>
+
+<ul>
+<div class="indent">	
+<li><a href="https://eml.berkeley.edu/~yagan/DividendTax_dofiles.zip" target="_blank">Stata do files with adaptable code for firm-specific capital costs</a></li>
+<div class="indent">	
+</ul>
 </p>
 
 
