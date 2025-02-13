@@ -77,7 +77,7 @@ press:
 
   - site: cuny
     article: City Tech Ranks Top Five Nationwide in College Mobility, Low-Income Students Go Far and Earn More
-    link: http://www1.cuny.edu/mu/forum/2017/01/20/city-tech-ranks-top-five-nationwide-in-college-mobility-low-income-students-go-far-and-earn-more/
+    link: https://www1.cuny.edu/mu/forum/2017/01/20/city-tech-ranks-top-five-nationwide-in-college-mobility-low-income-students-go-far-and-earn-more/
 
   - site: nyt
     article: Some Colleges Have More Students From the Top 1 Percent Than the Bottom 60. Find Yours.
@@ -98,7 +98,7 @@ press:
 data:
 
   - text: Data and replication kit
-    link: http://www.equality-of-opportunity.org/data/
+    link: https://www.equality-of-opportunity.org/data/
 
   - text: Three-page Mobility Report Cards for all 2,199 colleges
     link: https://dyagan.github.io/projects/college/
