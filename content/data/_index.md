@@ -14,7 +14,7 @@ title = "Danny Yagan - Data"
 <h5> Robust Fiscal Stabilization (BPEA 2024)</h5>
 <ul>
 <div class="indent">
-<li><a href="https://eml.berkeley.edu/~yagan/fiscal_repkit.zip">Data and replication kit</a>
+<li><a href="https://eml.berkeley.edu/~yagan/RobustFiscalStabilization_repkit.zip">Data and replication kit</a>
 </div>
 </ul>
 
