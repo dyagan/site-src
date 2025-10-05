@@ -1,16 +1,16 @@
 title: "Place-Based Redistribution"
 coauthors: C. Gaubert, P. Kline, and D. Vergara
 pdf: https://eml.berkeley.edu/~yagan/PlaceBasedRedistribution.pdf 
-publication: 
+publication: volume 115(10), pp. 3415–3450
 journal: American Economic Review 
-year:
+year: 2025
 comments:
-revision: Forthcoming in
+revision: 
 
 # FOR SORTING
-weight: 11
+weight: 16
 
-working: true
-published: false
+working: false
+published: true
 resting: false
 relic: false
