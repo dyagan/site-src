@@ -3,20 +3,16 @@ title = "Danny Yagan - Teaching"
 +++
 
 ##### Graduate Public Sector Economics
-This is the second of four units in the Berkeley PhD sequence in public sector economics (Economics 230A and 230B). The first unit is taught by Alan Auerbach. The <a href="https://eml.berkeley.edu/~saez/course/course.html" target="_blank">third unit</a> is taught by Emmanuel Saez. The <a href="https://gabriel-zucman.eu/econ230/" target="_blank">fourth unit</a> is taught by Gabriel Zucman. My unit covers capital taxation, social insurance, and public economics across space. 
+This is one of four units in the Berkeley PhD sequence in public sector economics (Economics 230A and 230B). My unit covers capital taxation, optimal labor income taxation, social insurance, and public economics across space.
 
-This course covers six sections: <a href="https://eml.berkeley.edu/~yagan/teaching/Graduate_Public_Sector_Economics.pdf" target="_blank">[slides here, large download]</a><br>
+This course covers seven sections: <a href="https://eml.berkeley.edu/~yagan/teaching/Graduate_Public_Sector_Economics.pdf" target="_blank">[slides here, large download]</a><br>
 1. Optimal Capital Taxation <br>
 2. Actual Capital Taxation: Investment<br>
 3. Actual Capital Taxation: Savings<br>
-4. Social Insurance<br>
-5. Local Public Finance<br>
-6. Place-Based Policies<br>
-
-<a href="https://eml.berkeley.edu/~yagan/teaching/Graduate_Public_Sector_Economics_Course_Information.pdf" target="_blank">Course information</a> <br>
-<a href="https://eml.berkeley.edu/~yagan/teaching/Graduate_Public_Sector_Economics_Reading_List.pdf" target="_blank">Reading list</a> <br>
-
-I thank Alan Auerbach, Raj Chetty, Mikhail Golosov, Emmanuel Saez, and others whose lectures and comments are reflected in my slides.
+4. Optimal Labor Income Taxation<br>
+5. Social Insurance<br>
+6. Local Public Finance<br>
+7. Place-Based Policies<br>
 
 <br>
 
@@ -43,5 +39,3 @@ This course covers nineteen sections:<br>
 17. Social Security<br>
 18. Unemployment Insurance, Disability Insurance, and Workers' Compensation<br>
 19. Health Insurance
-
-<a href="https://eml.berkeley.edu/~yagan/teaching/Undergraduate_Public_Sector_Economics_Course_Information.pdf" target="_blank">Course information</a>
