@@ -10,8 +10,8 @@ He researches public sector economics and teaches it to undergraduate and PhD st
 
 He is incoming Editor-in-Chief of the <a href="https://www.sciencedirect.com/journal/journal-of-public-economics" target="_blank">Journal of Public Economics</a>, the field's top journal, and member of the Board of Editors of <a href="https://www.aeaweb.org/journals/aeri" target="_blank">American Economic Review: Insights</a>.
 
-He is a <a href="https://www.nber.org/people/danny_yagan" target="_blank">Research Associate of the Public Economics Program</a> and <a href="https://www.nber.org/criw" target="_blank">Member of the Conference on Research in Income and Wealth</a> at the National Bureau of Economic Research.
+He is a <a href="https://www.nber.org/people/danny_yagan" target="_blank">Research Associate of the Public Economics Program</a> and <a href="https://www.nber.org/criw" target="_blank">Member of the Conference on Research in Income and Wealth</a> at the <a href="https://www.nber.org/" target="_blank">National Bureau of Economic Research</a>.
 
-He is <a href="https://budgetlab.yale.edu" target="_blank">Co-founder and Chief Economist of the Budget Lab at Yale</a>, a non-partisan policy research center dedicated to providing in-depth analysis of federal policy proposals for the American economy.
+He is Co-founder and Chief Economist of the <a href="https://budgetlab.yale.edu" target="_blank">Budget Lab at Yale</a>, a non-partisan policy research center dedicated to providing in-depth analysis of federal policy proposals for the American economy.
 
 He previously served as Chief Economist of the <a href="https://www.whitehouse.gov/omb/" target="_blank">Office of Management and Budget</a> (2021-22). He earned a BA and PhD in economics from Harvard.
