@@ -1,6 +1,4 @@
-title: "The SOI Databank: A Case Study in
-Leveraging Administrative Data for
-Evidence-Based Policymaking"
+title: "The SOI Databank: A Case Study in Leveraging Administrative Data in Support of Evidence-Based Policymaking"
 coauthors: R. Chetty, J.N. Friedman, and E. Saez
 pdf: https://eml.berkeley.edu/~yagan/Databank.pdf
 publication: volume 34 pp. 99-103
@@ -9,7 +7,7 @@ year: "2018"
 comments:  
 
 # FOR SORTING
-weight: 2
+weight: 7
 
 working: false
 published: true
