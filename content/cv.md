@@ -1,5 +1,5 @@
 +++
-title = "Danny Yagan - About"
+title = "Danny Ferris Yagan - CV/bio"
 +++
 
 <a href="https://eml.berkeley.edu/~yagan/cv.pdf" target="_blank">Curriculum vitae</a>.

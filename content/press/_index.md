@@ -1,3 +1,3 @@
 +++
-title = "Danny Yagan - Press"
+title = "Danny Ferris Yagan - Press"
 +++

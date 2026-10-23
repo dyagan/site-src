@@ -1,5 +1,5 @@
 +++
-title = "Danny Yagan - Mobility Report Cards"
+title = "Danny Ferris Yagan - Mobility Report Cards"
 +++
 
 <h5>Mobility Report Cards for All 2,199 U.S. Colleges</h5>

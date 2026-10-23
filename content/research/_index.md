@@ -1,3 +1,3 @@
 +++
-title = "Danny Yagan - Research"
+title = "Danny Ferris Yagan - Research"
 +++

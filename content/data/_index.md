@@ -1,5 +1,5 @@
 +++
-title = "Danny Yagan - Data"
+title = "Danny Ferris Yagan - Data"
 +++
 
 <h5>The Growth Dividend and Excess Interest (TPE 2025)</h5>

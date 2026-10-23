@@ -1,5 +1,5 @@
 +++
-title = "Danny Yagan | UC Berkeley Economics"
+title = "Danny Ferris Yagan - UC Berkeley Economics"
 +++
 
 

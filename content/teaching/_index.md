@@ -1,5 +1,5 @@
 +++
-title = "Danny Yagan - Teaching"
+title = "Danny Ferris Yagan - Teaching"
 +++
 
 ##### Graduate Public Sector Economics
