@@ -4,7 +4,7 @@ title = "Danny Yagan - About"
 
 <a href="https://eml.berkeley.edu/~yagan/cv.pdf" target="_blank">Curriculum vitae</a>.
 
-Danny Ferris Yagan is the <a href="https://www.econ.berkeley.edu/" target="_blank">Robert D. Burch Professor of Economics</a> and <a href="https://eml.berkeley.edu/~burch/" target="_blank">Director of the Burch Center for Tax Policy and Public Finance</a> at the University of California, Berkeley.
+Danny Ferris Yagan is the <a href="https://www.econ.berkeley.edu/" target="_blank">Robert D. Burch Professor of Economics</a> and Director of the <a href="https://eml.berkeley.edu/~burch/" target="_blank">Burch Center for Tax Policy and Public Finance</a> at the University of California, Berkeley.
 
 He researches public sector economics and teaches it to undergraduate and PhD students. His core work uses applied microeconomics to study topics of macroeconomic importance: taxes, inequality, deficits, and recessions.
 
