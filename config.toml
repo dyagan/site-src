@@ -17,7 +17,7 @@ pygmentscodefences  = true
     url  = "/"
     weight = 1
 [[menu.main]]
-    name = "CV"
+    name = "CV/Bio"
     url = "/cv/"
     weight = 2
 [[menu.main]]
