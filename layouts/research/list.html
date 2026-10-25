@@ -57,16 +57,18 @@
 			Policy brief on Gingrich-Edwards loophole: 
 			{{ range .policy_brief }}
 				<span id="policy_brief"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
-			{{ end }}
+			{{- end }}.
 		{{ end }}
 
 		{{ if .see_also }} 
 			See also: 
+			<span>
 			{{ range .see_also }}
 				<span id="see-also"><a href="{{ .link }}" target="_blank">{{ .text }}</a></span>
 			{{ end }}
+			</span>
 		{{ end }}
-		{{ if .note }} {{ .note }}{{ end }}
+		{{ if .note }}<br>{{ .note }}{{ end }}
 		{{ if .mrc_tech_summ }}
 			{{ range .mrc_tech_summ }}
 				{{ .text }}
