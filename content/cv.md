@@ -10,7 +10,7 @@ Danny Ferris Yagan is the <a href="https://www.econ.berkeley.edu/" target="_blan
 
 He researches public sector economics and teaches it to undergraduate and PhD students. His core work uses applied microeconomics to study topics of macroeconomic importance: taxes, inequality, deficits, and recessions.
 
-He is incoming Editor-in-Chief of the <a href="https://www.sciencedirect.com/journal/journal-of-public-economics" target="_blank">Journal of Public Economics</a>, the field's top journal, and member of the Board of Editors of <a href="https://www.aeaweb.org/journals/aeri" target="_blank">American Economic Review: Insights</a>.
+He is Co-editor and incoming Editor-in-Chief of the <a href="https://www.sciencedirect.com/journal/journal-of-public-economics" target="_blank">Journal of Public Economics</a>, the field's top journal, and member of the Board of Editors of <a href="https://www.aeaweb.org/journals/aeri" target="_blank">American Economic Review: Insights</a>.
 
 He is a Research Associate of the <a href="https://www.nber.org/people/danny_yagan" target="_blank">Public Economics Program</a> and Member of the <a href="https://www.nber.org/criw" target="_blank">Conference on Research in Income and Wealth</a> at the <a href="https://www.nber.org/" target="_blank">National Bureau of Economic Research</a>.
 
