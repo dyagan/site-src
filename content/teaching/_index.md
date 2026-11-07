@@ -2,10 +2,10 @@
 title = "Danny Ferris Yagan - Teaching"
 +++
 
-##### Graduate Public Sector Economics
-This is one of four units in the Berkeley PhD sequence in public sector economics (Economics 230A and 230B). My unit covers capital taxation, optimal labor income taxation, social insurance, and public economics across space.
+##### Graduate Public Economics
+This is one of four units in the Berkeley Economics PhD sequence in public sector economics (Economics 230A and 230B). My unit covers capital taxation, optimal labor income taxation, social insurance, and public economics across space.
 
-This course covers seven sections: <a href="https://eml.berkeley.edu/~yagan/teaching/Graduate_Public_Sector_Economics.pdf" target="_blank">[slides here, large download]</a><br>
+This course comprises seven lectures:<br>
 1. Optimal Capital Taxation <br>
 2. Actual Capital Taxation: Investment<br>
 3. Actual Capital Taxation: Savings<br>
@@ -16,10 +16,10 @@ This course covers seven sections: <a href="https://eml.berkeley.edu/~yagan/teac
 
 <br>
 
-##### Undergraduate Public Sector Economics
+##### Undergraduate Public Economics
 This course (Berkeley Economics 131) analyzes the role of the government in the economy. The aim is to provide an understanding of the reasons for government intervention in the economy, the benefits and costs of possible government policies, and the responses of economic agents to the government's actions. The course covers tax policy and inequality, social insurance programs, public goods, environmental protection, and the interaction between different levels of government. Special emphasis is on current policy issues such as tax reform, budget deficits, and health care reform.
 
-This course covers nineteen sections:<br>
+This course comprises nineteen lectures:<br>
 1. Introduction<br>
 2. Theoretical Tools of Public Finance<br>
 3. Empirical Tools of Public Finance<br>
